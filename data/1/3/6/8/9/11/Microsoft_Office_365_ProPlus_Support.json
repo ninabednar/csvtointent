@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Microsoft_Office_365_ProPlus_Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Microsoft_Office_365_ProPlus_Support",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Die HdM bietet keinen Support daf\u00fcr an, bei Fragen und Problemen kann der Support von DrVis per Mail erreicht werden: .\nofficesupport@drvis.de"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

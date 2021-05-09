@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Link_IT_Systemstatus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Link_IT_Systemstatus",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Unter https://status.hdm-stuttgart.de sind aktuelle Informationen aus dem Bereich des Informationszentrums-IT. Wenn bestimmte Funktionen nicht nutzbar sind, kann das Problem bereits hier aufgef\u00fchrt und bei uns bekannt sein."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

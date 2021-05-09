@@ -1,0 +1,463 @@
+ID,DF,TEST,Thema / Kategorie,Name Intent / Problem,Eltern-Intent,Grundlegende Fragestellungen,Alternative Frageformulierungen (Training Phrases),Antwort (Textform),Antwort (Verweis / URL),Quelle,Kommentare
+1,FALSE,FALSE,bwCloud,Wissen_bwCloud,,Was ist die bwCloud?,"Was kann die bwCloud?
+Woher bekomme ich eine virtuelle Maschine?
+Was brauche ich zum Cloud Computing?","Die bwCloud ist ein IaaS-Angebot und wird betrieben für Forschung und Lehre in Baden-Württemberg. Mit der bwCloud können virtuelle Server oder Maschinen erzeugt, gestartet und betrieben werden. Als Lehrende oder Studierende der HdM Stuttgart ist man berechtigt, dieses Angebot zu nutzen.","https://www.hdm-stuttgart.de/intranet/services/iz-it/bwcloud
+https://www.bw-cloud.org/de/","https://www.hdm-stuttgart.de/intranet/services/iz-it/bwcloud
+https://www.bw-cloud.org/de/",
+2,FALSE,FALSE,bwCloud,Nutzung_bwCloud,,Wie funktioniert die bwCloud?,"Wie starte ich eine virtuelle Maschine auf meinem Rechner?
+Was brauche ich zum Cloud Computing?",,https://www.bw-cloud.org/de/erste_schritte,https://www.bw-cloud.org/de/erste_schritte,
+3,FALSE,FALSE,bwCloud,Installation_bwCloud,,Wie installiere ich die bwCloud?,Was muss ich bei der Installation der bwCloud beachten?,,https://www.bw-cloud.org/de/erste_schritte,https://www.bw-cloud.org/de/erste_schritte,
+4,FALSE,FALSE,bwCloud,Problem_bwCloud,,Ich habe ein Problem mit der bwCloud.,"Die bwCloud funktioniert nicht.
+Meine installierte Software in der bwCloud funktioniert nicht.
+Ich kann die bwCloud nicht installieren.",,"https://www.bw-cloud.org/de/faq/instanzen
+https://www.bw-cloud.org/de/faq/software","https://www.bw-cloud.org/de/faq/instanzen
+https://www.bw-cloud.org/de/faq/software",
+5,FALSE,FALSE,bwLehrpool,Wissen_bwLehrpool,,Was ist bwLehrpool?,"Was kann ich mit bwLehrpool machen?
+Wieso sollte ich bwLehrpool nutzen?",,https://www.bwlehrpool.de,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,
+6,FALSE,FALSE,bwLehrpool,Start_bwLehrpool,,Was muss ich vor der Nutzung von bwLehrpool beachten?,"Wo bekomme ich Zugang zum bwLehrpool?
+Wie installiere ich bwLehrpool?
+Welche Systemvoraussetzungen gibt es für den bwLehrpool",,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,
+7,FALSE,FALSE,bwLehrpool,Nutzung_bwLehrpool,,Wie nutze ich bwLehrpool richtig?,"Wie funktioniert der bwLehrpool?
+Wie kann ich eine virtuelle Lehrumgebung bauen?",,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,
+8,FALSE,FALSE,bwLehrpool,Anwender_bwLehrpool,,Kann ich den bwLehrpool nutzen?,"Wer kann den bwLehrpool nutzen?
+Wo gibt es den bwLehrpool?",,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool,
+9,FALSE,FALSE,bwLehrpool,PVS_bwLehrpool,,Was ist der Pool-Video-Switch?,"Wie steuere ich den PVS?
+Ich habe ein Problem mit dem Pool-Video-Switch.",,https://www.bwlehrpool.de/doku.php/client/poolvideoswitch,https://www.bwlehrpool.de/doku.php/client/poolvideoswitch,
+10,FALSE,FALSE,IT,Zuständigkeit_CampusIT,,Was macht die Campus IT?,Wer ist für die IT an der HdM verantwortlich?,,https://www.hdm-stuttgart.de/intranet/services/it/basis_services/,https://www.hdm-stuttgart.de/intranet/services/it/basis_services/,
+11,FALSE,FALSE,IT,Servicezeiten_CampusIT,,Wie erreiche ich die Campus IT?,Wann hat die IT auf dem Campus geöffnet?,,https://www.hdm-stuttgart.de/intranet/services/it/#Servicezeiten,https://www.hdm-stuttgart.de/intranet/services/it/#Servicezeiten,
+12,FALSE,FALSE,IT,Abteilungen_IT,,Welche IT-Abteilungen gibt es?,An wen wende ich mich bei IT-Fragen?,,https://www.hdm-stuttgart.de/intranet/services/it/#Service%20Kategorien,https://www.hdm-stuttgart.de/intranet/services/it/#Service%20Kategorien,
+13,FALSE,FALSE,Filestore,Wissen_Filestore,,Was ist der Filestore?,Gibt es eine zentrale Dateiablage für die die HdM?,,https://www.hdm-stuttgart.de/intranet/services/iz-it/datenablage,,
+14,FALSE,FALSE,Filestore,Anwendung_Filestore,,Wie teilt man Dateien mit Filestore?,"Wie teilt man Dateien per Mail?
+Wie teilt man Dateien als Link?
+Wie kann ich meine Dateien für andere Filestore Nutzer 
+verfügbar machen?",,https://www.hdm-stuttgart.de/intranet/services/iz-it/datenablage,,
+15,FALSE,FALSE,Filestore,Anwendung_Filestore,,"Wie mache ich ungewollte Änderungen 
+rückgängig?",Vorherige Version wiederherstellen?,,https://www.hdm-stuttgart.de/intranet/services/iz-it/datenablage,,
+16,FALSE,FALSE,Filestore,Anwendung_Filestore,,Wie stelle ich Dateien wieder her?,"Gelöschte Dateien wiederherstellen? 
+Versehentliche Datei gelöscht, was tun?",,https://www.hdm-stuttgart.de/intranet/services/iz-it/datenablage,,
+17,FALSE,FALSE,Filestore,Anwendung_Filestore,,"Wie funktioniert der Zugang über 
+WEBDAV?",Wie binde ich Filestore in mein Netzlaufwerk ein?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Filestore_Netzlaufwerkeinbinden.pdf,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Filestore_Netzlaufwerkeinbinden.pdf,
+18,FALSE,FALSE,Threema Work,Wissen_Threema,,Was ist Threema,"Was ist Threema
+Threema HdM
+Threema Work
+""Threema""
+Instant Messenger DSGVO",,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+19,FALSE,FALSE,Threema Work,Wissen_Threema_warum,,Warum Threema.Work,,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+20,FALSE,FALSE,Threema Work,Wissen_Threema_dsgvo,,Threema DSGVO,Rechtskonformität Threema,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+21,FALSE,FALSE,Threema Work,Anwendung_Threema,,Threema installieren,"Threema Work installieren
+Wie installiere ich Threema?
+Wie installiere ich Threema Work?
+Android
+Threema.Work ID erstellen
+iPhone
+iOs",,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+22,FALSE,FALSE,Threema Work,Anwendung_Threema_backups,,Threema Backups,"Safe Passwort
+Backup erstellen
+Sicherung erstellen",,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+23,FALSE,FALSE,Threema Work,Anwendung_Threema_settings,,Threema Einstellungen,"Adressbuch
+E-Mail
+Handynummer
+Kontakte
+Privatsphäre
+Arbeitszeiten",,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+24,FALSE,FALSE,Threema Work,Anwendung_Threema_funktionen,,Threema Funktionen,"Nachrichten
+Gruppen
+Verteilerlisten
+Umfragen
+Archive
+Threema Web",,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch,
+26,FALSE,FALSE,eduroam,Wissen_eduroam-general,,Was ist eduroam?,Wie finde ich das WLAN?,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+27,FALSE,FALSE,eduroam,Wissen_eduroam,Wissen_eduroam-general,Wo kann ich eduroam nutzen?,Wo habe ich WLAN?,"Der Zugang funktioniert an Standorten, die im eduroam-Verbund integriert sind. Dabei muss sowohl die eigene als auch die zu besuchende Einrichtung teilnehmen",,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+28,FALSE,FALSE,eduroam,Wissen_eduroam,Wissen_eduroam-general,Was brauche ich für eduroam?,WLAN-Einstellungen,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+29,FALSE,FALSE,eduroam,Anwendung_eduroam,,Wie melde ich mich bei eduroam an?,Wie verbinde ich mich mit dem WLAN? WLAN-Einstellungen?,Für die Nutzung wird lediglich ihr HdM-Account in der Form Benutzername@hdm-stuttgart bzw. xy007@hdm-stuttgart.de benötigt.,,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+30,FALSE,FALSE,eduroam,Anwendung_eduroam,,Wer kann das eduroam nutzen?,Wer kann sich mit dem WLAN verbinden?,"Der Rechner muss WLAN-fähig sein.
+Der WPA-Supplikant (das ist die Software, die die Verbindung aufbaut) muss installiert und konfiguriert sein.
+Die SSID eduroam oder 802.1X muss am Standort verfügbar sein.
+Es muss zumindest das Root-Zertifikat der Deutschen Telekom AG installiert sein.",,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+31,FALSE,FALSE,eduroam,Windows_10_eduroam,,Wie richte ich eduroam für Windows 10 ein?,"Wie geht die eduroam Installation mit Windows 10? 
+Wie nutzt man eduroam mit Windows 10?",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/eduroam-Windows10.pdf,
+32,FALSE,FALSE,eduroam,Windows_8_eduroam,,Wie richte ich eduroam für Windows 8 ein?,"Wie geht die eduroam Installation mit Windows 8? 
+Wie nutzt man eduroam mit Windows 8?",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/eduroam-Windows8.pdf,
+33,FALSE,FALSE,eduroam,Windows_7_eduroam,,Wie richte ich eduroam für Windows 7 ein?,"Wie geht die eduroam Installation mit Windows 7? 
+Wie nutzt man eduroam mit Windows 7?",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/eduroam-Windows7.pdf,
+34,FALSE,FALSE,eduroam,Windows_linux_eduroam,,Wie richte ich eduroam für Ubuntu ein?,"""Wie geht die eduroam Installation mit Ubuntu? 
+Wie nutzt man eduroam mit Ubuntu?""",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/eduroam-Ubuntu.pdf,
+35,FALSE,FALSE,eduroam,Wissen_eduroam,Wissen_eduroam-general,Was ist ein Wurzelzertifikat (Root-Zertifikat)?,,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+36,FALSE,FALSE,eduroam,Wissen_eduroam,Wissen_eduroam-general,Worum handelt es sich bei 802.1X ?,,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/wlan,
+37,FALSE,FALSE,Persönliche Websiten,persoenliche_website_erstellen,,Wer kann eine eigene Website erstellen ? ,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+38,FALSE,FALSE,Persönliche Websiten,persoenliche_website_speicher,,Wie viel Speicher steht mir zur verfügung?,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+39,FALSE,FALSE,Persönliche Websiten,persoenliche_website_benutzerordnung,,Was für eine Benutzerordnung gilt ?,Persönliche Website Benutzerordnung,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+40,FALSE,FALSE,Persönliche Websiten,persoenliche_website_betriebsordnung,,Was für eine Betriebsordnung gilt ?,Persönliche Website Betriebsordnung,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+41,FALSE,FALSE,Persönliche Websiten,persoenliche_website_datenbank,,Verbinden SQL Datenbank zur persönlichen Website,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+42,FALSE,FALSE,Persönliche Websiten,persoenliche_website_daten,,Wie kann ich meine Dateien verwalten ? ,,Zugriff für die Dateiverwaltung ist ausschließlich über den HdM FileStore möglich.,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,,
+43,FALSE,FALSE,Persönliche Websiten,persoenliche_website_konfiguration,,Konfiguration persönlicher Website,,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/persoenliche_webseiten,
+44,FALSE,FALSE,Sophos Virenschutz,Wissen_Sophos,,Warum brauche ich Antiviren-Software?,"Wozu benötige ich Antiviren Software?
+Was bringt mir Antiviren Software?
+",Zum Schutz vor Schadsoftware,,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+45,FALSE,FALSE,Sophos Virenschutz,Wissen_Sophos,,Welche Antiviren Software kann ich über die HdM beziehen?,"Welche Antiviren Software gibt es an der HdM?
+Welche Schutzsoftware gibt es?","Sophos Endpoint Protection Advanced (Virenscanner, lokale Firewall, Web-Content-Filterung, Malwareerkennung und Applikationsüberwachung)",,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+46,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Für welches Betriebssystem ist die Antiviren-Software verfügbar?,"Für welches OS gibt es Antiviren Software?
+Gibt es Antiviren-Software für Windows?
+Gibt es Antiviren-Software für Linux?
+Gibt es Antiviren-Software für Mac OS?",Es stehen Installer für Windows (reiner Virenschutz oder Virenschutz mit Firewall) und Installationspakete für macOS und Linux (nur Virenschutz) bereit.,,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+47,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Wie lange ist die Lizenz für die Antiviren-Software gültig?,"Wie lange Lizenz gültig?
+",Die „StudentHome-Version“ ist von der Laufzeit aus lizenztechnischen Gründen auf ein Semester beschränkt. Jeweils zum Start des neuen Semesters wird eine neue Version zur Verfügung gestellt.,,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+48,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Meine Antiviren-Software Lizenz ist abgelafufen,Lizenz abgelaufen,Jeweils zum Start des neuen Semesters wird eine neue Version zur Verfügung gestellt.,,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+49,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Wie komme ich an das Installationspaket?,"Wo gibt es einen Download für das Installationspaket?
+Wo downloaden?
+Sophos downloaden","Es stehen Installationspakete für Windows und macOS bereit. Die Installationsquellen für Linux werden nur nach Anforderung (bitte per Ticket einstellen) generiert.
+
+Sophos Download Bereich MAC/WIN (Laufzeit Sommersemester 2021)",,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+50,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Wo finde ich die Installationsanleitungen für die Antivirenschutz Software?,"Wo finde ich Systemdokumentation zur Sophos Software?
+Wo finde ich eine Installationsanleitung für Sophos?
+Gibt es eine Installationsanleitung für Sophos? ","Unter: \\fs1.hdm-stuttgart.de\rz-service\Software\SOPHOS\StudentHome\
+Zugriff nur aus dem HdM-Netz möglich",,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+51,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Welche Berechtigungen sind zur Installation nötig?,"Benötige ich Administrationsrechte zur Installation von Sophos?
+",Für die Installation der Software sind administrative Rechte erforderlich.,,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+52,FALSE,FALSE,Sophos Virenschutz,Anwendung_Sophos,,Gibt es Hinweise zur Installation von Sophos?,"Was passiert beim Update von Sophos?
+Windows Defender
+","Jegliche Antivirensoftware sollte vor der Sophos-Installation deinstalliert werden. Auch der Windows Defender muss deaktiviert sein. Aktualisierungen (Virensignaturen- und Engine-Updates) werden über einen internen Webserver bereitgestellt. Dieser ist weltweit erreichbar, so dass auch mobile Systeme von extern aus aktualisiert werden können. Die Daten für den Zugriff (Servername und Zugang) sind im Installationspaket hinterlegt.
+
+Ein Update der Version ist durch eine Neuinstallation möglich. Bitte starten sie die Installation mit Administrationsrechten. Die alte Sophos-Version wird automatisch deinstalliert. Nach einem Systemneustart steht ihnen die Antivirensoftware vollständig zur Verfügung. Eine Eingabe von Seriennummern, Lizenzschlüssel oder Updateservern ist NICHT erforderlich.",,https://www.hdm-stuttgart.de/intranet/services/iz-it/virenschutz,
+53,FALSE,FALSE,Firefox,Grundeinrichtung_Firefox,,Wie ist die Grundeinrichtrung von Firefox?,"Wie richte ich Firefox ein?
+Wie stelle ich Firefox als Standardbrowser ein?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Firefox_Grundeinrichtung.pdf,,
+54,FALSE,FALSE,Firefox,Startseite_Firefox,,Wie ändere ich die Startseite bei Firefox?,Wie stelle ich die HdM-Homepage als Startseite bei Firefox ein?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Firefox_Startseiteaendern.pdf,,
+55,FALSE,FALSE,Firefox,Tabs_Firefox,,Wie öffnen sich mehrere Tabs beim Start von Firefox?,"Können sich merhere Tabs beim Start von Firefox automatisch öffnen?
+Ich möchte, dass sich beim Start von Firefox automatisch mehrere Tabs öffnen",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Firefox_MehrereStartseitentabs.pdf,,
+56,FALSE,FALSE,Firefox,Citrix_Verknuepfung_Firefox,,Was ist Citrix?,"Was ist Citrix?
+Für was ist eine Citrix-Verknüpfung?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/IReMo_verbinden.pdf,,
+,FALSE,FALSE,Firefox,Erstellung_Citrix_Verknuepfung_Firefox,,Wie erstelle ich eine Citrix-Verknüpfung?,"Wie verbinde ich Firefox mit IReMo?
+Wie erstelle ich eine Citrix-Verknüpfung auf dem Desktop?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/IReMo_verbinden.pdf,,
+57,FALSE,FALSE,E-Mail Mozilla Thunderbird,Grundeinrichtung_Thunderbird,,Wie richte ich eine bestehende E-Mail-Adresse bei Thunderbird ein?,"Wie richte ich Thunderbird ein?
+Wie ist die Grundeinrichtung?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Grundeinrichtung.pdf,,
+58,FALSE,FALSE,E-Mail Mozilla Thunderbird,Adressbuch_Thunderbird,,Wie richte ich bei Thunderbird das HdM Adressbuch ein?,,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_HdMAdressbuch.pdf,,
+59,FALSE,FALSE,E-Mail Mozilla Thunderbird,Signatur_Thunderbird,,Wie richte ich eine Signatur bei Thunderbird ein?,"Wie erstelle ich eine Signatur?
+Können Kontaktdaten automatisch eingefügt werden?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Signatur.pdf,,
+60,FALSE,FALSE,E-Mail Mozilla Thunderbird,Kalender_Thunderbird,,Wie kann ich meinen Kalender bei Thunderbird einbinden?,Wie kann ich meinen Kalender verbinden?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Kalendereinbinden.pdf,,
+61,FALSE,FALSE,E-Mail Mozilla Thunderbird,Junkfilter_Thunderbird,,Wie richte ich einen selbstlernende Junkfilter ein?,"Gibt es einen selbstlernenden Junkfilter?
+Wie kann ich einen Junkfilter erstellen?
+Wie erstelle ich einen SPAM-Filter?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Junkfilter.pdf,,
+62,FALSE,FALSE,E-Mail Mozilla Thunderbird,Identitäten_Thunderbird,,Wie erstelle ich bei Thunderbird weitere Identitäten? ,Kann ich Maillisten mit mehreren Empfängern verwenden?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_weitereIdentitaeten.pdf,,
+63,FALSE,FALSE,E-Mail Mozilla Thunderbird,CPULast_Thunderbird,,Verursacht Thunderbird eine hohe CPU-Last?,"Wieso wird mein Computer/Notebook lauter?
+Wieso läuft die Prozessorlüftung ständig auf Volllast?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_HoheCPULast.pdf,,
+64,FALSE,FALSE,E-Mail Mozilla Thunderbird,Profil_Thunderbird,,Warum habe ich keinen Zugriff auf mein Thunderbird-Profil?,Warum habe ich nach dem Update keinen Zugriff auf mein Thunderbird-Profil?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Profilbeschaedigt.pdf,,
+65,FALSE,FALSE,E-Mail Mozilla Thunderbird,Papierkorb_Thunderbird,,Wie deaktiviere ich den Papierkorb bei Thunderbird?,Warum kann ich keine Mails mehr löschen?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Thunderbird_Papierkorbdeaktivieren.pdf,,
+66,FALSE,FALSE,Arbeitsplatz einrichten,PC_erste_Anmeldung,,Was muss bei der ersten Anmeldung am Computer beachtet werden?,"Was muss bei der ersten Anmeldung am PC beachtet werden?
+Wie melde ich mich zum ersten Mal am Computer an?","Für die Anmeldung am Computer gilt der Benutzername und das Passwort, das für die Domäne ""HdM"" angelegt wurde. Weitere Informationen sind unter https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf zu finden.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+67,FALSE,FALSE,Arbeitsplatz einrichten,PC_erste_Einrichtung,,Was muss ich nach der Anmeldung einrichten?,"Was muss man nach der Anmeldung machen?
+Muss ich nach der ersten Anmeldung etwas tun?
+Was muss ich nach der ersten Anmeldung beachten?",Für alle Fragen zur Anmeldung und Einrichtung des Computers gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+68,FALSE,FALSE,Arbeitsplatz einrichten,Passwortaenderung,,Wo ändere ich mein Passwort?,"Kann ich mein Passwort ändern?
+Wie ändere ich mein Passwort?
+Wo ändere ich mein Passwort?
+Wo kann ich mein Passwort ändern?",Das Passwort kann unter https://vw-online.hdm-stuttgart.de/hdmaccount/passwort/ geändert werden.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+69,FALSE,FALSE,Arbeitsplatz einrichten,Passwortaenderung_Zusatzinformationen,,"Was muss ich beachten, wenn ich mein Passwort geändert habe?","Warum funktioniert mein Passwort nicht mehr nachdem ich es geändert habe?
+Warum funktioniert mein Passwort nicht mehr?","Nach einer Passwortänderung funktioniert das alte, in manchen Prohrammen gespeicherte, Passwort nicht mehr. Die Anmeldung muss mit dem neuen Passwort erfolgen.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+70,FALSE,FALSE,Arbeitsplatz einrichten,PC_erste_Anmeldung_Windows_Explorer,,Wie öffne ich den Windows Explorer?,"Wie finde ich den Windows Explorer?
+Wo ist der Windows Explorer?
+Wo ist der Explorer?","Der Winows Explorer kann geöffnet werden durch die Tastenkombination ""E"" und ""Winows-Taste"".",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+71,FALSE,FALSE,Arbeitsplatz einrichten,PC_erste_Anmeldung_Taskleiste,,Wie hefte ich ein Programm an die Taskleiste an?,"Wie hefte ich etwas an die Taskleiste an?
+Wie füge ich etwas an die Taskleiste an?
+Wie ergänze ich die Taskleiste um ein Programm?","An die Taskleiste können Programme mit einem Rechtsklick auf das Icon und Auswahl ""An Taskleiste anheften"" angeheftet werden.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+72,FALSE,FALSE,Arbeitsplatz einrichten,PC_erste_Anmeldung_Personalisierung,,Welche Programme muss ich personalisiert einrichten?,"Welche Programme muss ich personalisieren?
+Muss ich Programme personalisieren?
+Muss ich Programme personalisiert einrichten?
+Müssen Programme besonders eingerichtet werden?",Für eine Übersicht der erforderlichen Schritte gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+73,FALSE,FALSE,Arbeitsplatz einrichten,Einrichtung_CDBurnerXP,,Wie richte ich den CDBurnerXP ein?,,Für die Details zur Einrichtung des CDBurnerXP gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+74,FALSE,FALSE,Arbeitsplatz einrichten,Einrichtung_VLC_Player,,Wir richte ich den VLC Player ein?,,Für die Details zur Einrichtung des VLC Players gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+75,FALSE,FALSE,Arbeitsplatz einrichten,Einrichtung_Microsoft_Office,,Wie richte ich Microsoft Office ein?,,Für die Details zur Einrichtung von Microsoft Office gibt es hier mehr Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+76,FALSE,FALSE,Arbeitsplatz einrichten,Link_IT_Systemstatus,,Was finde ich unter dem Link “Aktueller IT-Systemstatus”?,"Wo finde ich Informationen zum aktuellen IT-Systemstatus?
+Wo gibt es Infos zum aktuellen Systemstatus?
+Was finde ich unter dem Link “Informationszentrum IT”?","Unter https://status.hdm-stuttgart.de sind aktuelle Informationen aus dem Bereich des Informationszentrums-IT. Wenn bestimmte Funktionen nicht nutzbar sind, kann das Problem bereits hier aufgeführt und bei uns bekannt sein.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+77,FALSE,FALSE,Arbeitsplatz einrichten,IT_Problem,,"Was kann ich tun, wenn etwas nicht funktioniert?
+","Was finde ich unter dem Link “HdM Trouble-Ticket-System”?
+Wie öffne ich ein Ticket bei Problemen?",Das Trouble-Ticket-System der HdM (https://otrs.hdm-stuttgart.de/otrs/customer.pl) ermöglicht es Probleme und Fehler zu melden.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+78,FALSE,FALSE,Arbeitsplatz einrichten,IT_Problem_Telefonnummer,,Unter welcher Telefonnummer erreiche ich den Helpdesk?,"Wie erreiche ich den IT-Support?
+Unter welcher Nummer erreiche ich den Support?
+Wie kann ich den Helpdesk erreichen?
+Was kann ich tun, wenn ich keinen Netzwerkzugriff habe?",Der Helpdesk kann unter der Nummer 1920 im Telefonnetz der HdM erreicht werden.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+79,FALSE,FALSE,Arbeitsplatz einrichten,Anwendung_Ticketsystem,,Wie verwende ich das Ticketsystem?,"Wie erstelle ich ein Ticket?
+","Unter https://otrs.hdm-stuttgart.de/otrs/customer.pl kann ein Ticket erstellt werden. Das Ticket sollte einen aussagekräftigen Betreff erhalten. Im Text kann dann ausführlich der Fehler beschrieben werden, falls es eine Fehlernummer gibt, kann ein Screenshot angehängt werden.
+Beschreibung zum Vorgehen auch unter https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf einsehbar.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+80,FALSE,FALSE,Arbeitsplatz einrichten,Anwendung_Ticket_Status,,Wie kann ich den Status meines Tickets überprüfen?,Wo kann ich den Stand von meinem Ticket anschauen?,Leider kann der aktuelle Status eines Tickets nicht abgerufen werden.,,,
+81,FALSE,FALSE,Arbeitsplatz einrichten,Screenshots,,Wie mache ich Screenshots?,"Wie erstellt man Screenshots?
+Wie erstelle ich Screenshots?
+Wie speichere ich einen Screenshot?
+Wie speichert man Screenshots?","Mit der Tastenkombination ""Alt"" (links der Leertaste) und ""Druck"" (heißt auf manchen Tastaturen auch ""Print"") kann ein Screenshot gemacht werden.
+Gespeichert werden kann ein Screenshot zum Beispiel in einem neuen Word-Dokument mit der Tastenkombination ""STRG"" und ""V"".",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+82,FALSE,FALSE,Arbeitsplatz einrichten,Zugriff_Filestore,,Wie erhalte ich Zugriff auf den HdM Filestore?,Wo finde ich den Filestore?,Unter https://filestore.hdm-stuttgart.de ist der HdM Filestore aufrufbar.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+83,FALSE,FALSE,Arbeitsplatz einrichten,Anwendung_HdM_OX,,Was ist HdM OX?,"Wie kann ich meine Mails aufrufen?
+Wie verwende ich HdM OX?
+Wie melde ich mich bei HdM OX an?","Bei HdM OX handelt es sich um eine Alternative zu Mozilla Thunderbird, mit der Kalender und Mails aufrufbar sind unter https://ox.hdm-stuttgart.de. Die Anmeldedaten entsprechen dem Benutzernamen und Passwort das zur Anmeldung am Computer verwendet wird.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf,
+84,FALSE,FALSE,Netzlaufwerk verbinden,Netzlaufwerk_manuelle_Einrichtung,,Wie richte ich Netzlaufwerkverbindungen manuell ein?,"Wie lautet die Netzwerkfreigabe-Adresse für die Laufwerke?
+Was muss ich für [name] angeben beim Einrichten des Laufwerks?",Eine ausführliche Anleitung zu Netzlaufwerkverbindungen findet sich hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf,
+85,FALSE,FALSE,Netzlaufwerk verbinden,Netzlaufwerk_verbinden,,Mit welchen Laufwerken muss ich mich verbinden?,Mit welchen Laufwerken muss ich verbunden sein?,"Eine Verbindung zu den Laufwerken S:\ und H:\ sollte bereits vorhanden sein, falls eine der benötigten Verbindungen fehlt, findet sich hier eine ausführliche Anleitung https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf,
+86,FALSE,FALSE,Datensicherung,Datensicherung,,"Wie übertrage ich Daten von meinem alten Computer auf den neuen Computer?
+","Werden Datensicherungen durchgeführt?
+Muss ich Datensicherungen selber machen?
+Wie mache ich Datensicherungen?
+Wie sichere ich meine Daten?
+Wie muss ich die Übertragung vorbereiten?
+Woher bekomme ich einen USB-Stick?","Die Datensicherung kann mithilfe eines USB-Sticks erfolgen, der in der Abteilung Infrastruktur in der Materialausgabe in Raum 112 bei Claudia Czerny abgehlt werden kann.
+Zum Thema Datensicherung gibt es hier eine ausführliche Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf. Hier wird beschrieben welche Daten gesichert werden müssen, wo diese zu finden sind und wie dabei vorgegangen werden muss.
+",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+87,FALSE,FALSE,Datensicherung,Datensicherung_welche_Daten,Datensicherung,"Welche Daten muss ich übertragen?
+","Welche Daten muss ich sichern?
+Welche Daten müssen gesichert werden?
+Wo liegen meine Daten?","Informationen zur Datensicherung, welche Daten gesichert werden müssen und wo diese zu finden sind gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+88,FALSE,FALSE,Datensicherung,Datensicherung_Mail,,Wie übertrage ich meine Maildaten und -einstellungen?,"Welche Ordner muss ich sichern für meine Maildaten und Maileinstellungen?
+Wo finde ich die Ordner mit meinen Maildaten und -einstellungen?
+Welchen der Ordner muss ich sichern?
+Wie mache ich das Datum sichtbar?
+Wie stelle ich fest, ob ich “Lokale Ordner” im Thunderbird verwende?","Zur Sicherung und Übertragung von Maildaten und -einstellungen gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 4 im Abschnitt ""Maildaten und -einstellungen sichern"")",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+89,FALSE,FALSE,Datensicherung,Datensicherung_Firefox,,Wie sichere ich meine Links und Einstellungen in Firefox?,"Wo liegen meine Daten für Firefox?
+Welchen der Ordner muss ich sichern?
+Wie mache ich das Datum sichtbar?
+Wie kann ich mir versteckte Ordner anzeigen lassen?
+Wie sichere ich Daten anderer Browser?","Zur Sicherung und Übertragung von Links und Einstellungen in Firefox gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 10 im Abschnitt ""Firefox – Links und Einstellungen sichern"")",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+90,FALSE,FALSE,Datensicherung,Datensicherung_Internet_Explorer,,Wie sichere ich meine Links und Einstellungen im Internet Explorer?,"Wo finde ich die Daten die ich sichern will?
+Wo finde ich die Links?
+Wo liegen meine Daten für den Internet Explorer?
+Welchen der Ordner muss ich sichern?","Zur Sicherung und Übertragung von Daten des Internet Explorers gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 14 im Abschnitt ""Daten anderer Browser sichern, Internet Explorer"")",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+91,FALSE,FALSE,Datensicherung,Datensicherung_Google_Chrome,,Wie sichere ich meine Links und Einstellungen für Google Chrome?,"Wo finde ich die Daten die ich sichern will?
+Wo liegen meine Daten für Google Chrome?
+Wo sind meine Daten für Chrome?
+Welchen der Ordner muss ich sichern?","Zur Sicherung und Übertragung von Links und Einstellungen für Google Chrome gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 15 im Abschnitt ""Daten anderer Browser sichern, Google Chrome – Links und Einstellungen sichern"")",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+92,FALSE,FALSE,Datensicherung,Datenuebertragung,,Wie spiele ich die Daten auf den neuen Computer?,"Wo muss ich die Daten auf dem neuen Computer abspeichern?
+Was muss ich bei der Datenübertragung beachten?
+Wieso finde ich die Ordner für die entsprechenden Programme nicht?
+Warum sind auf dem neuen Computer die Ordner nicht da?","Zur Übertragung der Daten, die gesichert werden sollen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 17, Abschnitt ""Rückspielen der gesicherten Daten auf den neuen Computer"")",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf,
+93,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus,,Was ist Microsoft_Office_365_ProPlus?,,"Dabei handelt es sich um ein Softwarepaket, das alle Office-Programme beinhaltet und es für Studierende ermöglicht eine Windows 10 Education Lizenz (inklusive Medium) kostenlos zu erwerben. Mehr Infos gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+94,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Leistungen,,"Welche Leistungen sind in dem Angebot für Microsoft Office 365 ProPlus enthalten?
+","Welche Leistungen sind bei Office 365 ProPlus enthalten?
+Wie viel kostet das Angebot Office 365 ProPlus?","Gegen Zahlung einer Gebühr in Höhe von zurzeit 3,99 Euro pro Jahr erhalten Sie über https://bildung365.de das Softwarepaket Office 365 ProPlus und, wenn Sie Studierender sind, eine kostenlose Lizenz von Windows 10 Education inklusive Medium.
+Genauerer Infors gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+95,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Nutzung,,Wo finde ich das Angebot zu Microsoft Office 365 ProPlus?,"Wo kann ich das Angebot in Anspruch nehmen?
+Unter welchem Link kann ich das Angebot finden?
+","Das Angebot kann über diesen Link aufgerufen werden: https://bildung365.de. Hier muss als Bildungseinrichtung die Hochschule der Medien ausgewählt werden.
+Weitere Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+96,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Voraussetzungen,,"Welche Voraussetzungen muss ich erfüllen, um das Microsoft Office 365 ProPlus zu nutzen?","Welche Systemvoraussetzungen müssen erfüllt werden?
+Welche OS werden unterstützt?",Das Office-Paket kann von Studierenden und Mitarbeiter*innen der HdM genutz werden. Die Windows 10 Education Lizenz ist nur für Studierende verfügbar. Unterstützt werden unterschiedliche Endgeräte. Genauere Informationen zu den Systemvorraussetzungen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+97,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Installation,,Wie oft darf ich Microsoft Office 365 ProPlus auf unterschiedlichen Geräten installieren?,,"Es sind 5 Installationen pro Nutzer möglich, auf mobilen Geräten (Smartphone, Tablet, ...) sind 5 zusätzliche Installationen möglich.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+98,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Dauer,,"Wie lange kann ich das Microsoft Office 365 ProPlus nutzen?
+",Wie verlängere ich den Nutzungszeitraum von Microsoft Office 365 ProPlus?,"Der Nutzungszeitraum für das Angebot beträgt 1 Jahr, kann danach aber über https://bildung365.de erneut erworben und damit verlängert werden.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+99,FALSE,FALSE,Microsoft Office 365 ProPlus,Microsoft_Office_365_ProPlus_Support,,An wen kann ich mich bei Fragen zu Microsoft Office 365 ProPlus wenden?,"Wer bietet Support für Microsoft Office 365 ProPlus?
+Wer bietet Support für Office 365 ProPlus?","Die HdM bietet keinen Support dafür an, bei Fragen und Problemen kann der Support von DrVis per Mail erreicht werden: .
+officesupport@drvis.de",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf,
+100,FALSE,FALSE,Passwort,Passwort_Regeln,,Welche Passwortregeln gibt es?,"Welche Bedingungen muss ein Passwort für einen Account der HdM erfüllen?
+Welche Passwortrichtlinien gelten?
+Welche Zeichen müssen enthalten sein?
+Welche Zeichen dürfen nicht enthalten sein?
+Wie muss das Passwort sein?","Diese Bedingungen muss ein Passwort erfüllen:
+10-14 Zeichen
+mindestens 1 Zahl, Großbuchstabe, Kleinbuchstabe
+eines der Sonderzeichen ! . , ; + - _ = # $ ( ) [ ] { } & *
+keines der Zeichen < > | § @ € ? : % ^ \ "" ' ` ° ~
+keine Umlaute, Leerzeichen oder diakritische Zeichen (è, ñ, â u.ä.)
+nicht mehr als 5 Buchstaben in Folge
+Die Bedingungen sind hier aufgeführt: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Passwortregeln.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Passwortregeln.pdf,
+101,FALSE,FALSE,Microsoft Office - Suffix anzeigen,Microsoft_Office_Suffix_anzeigen,,Wie blende ich Datei-Suffixes ein?,"Wie kann ich Datei-Erweiterungen anzeigen?
+Wie kann man Datei-Endungen anzeigen?
+Wie blende ich Dateiendungen ein?
+Wie zeige ich Dateierweiterungen an?
+","Im Windows Explorer unter dem Menüpunkt ""Ansicht"" rechts oben unter ""Optionen"" ""Ordner- und Suchoptionen ändern"" auswählen. Dann öffnet sich ein Fenster, dort den Menüpunkt ""Ansicht"" auswählen. In der Liste müssen Sie nun das Häkchen bei „Erweiterungen bei bekannten Dateitypen ausblenden“ wegklicken und Ihre Wahl mit „OK“ bestätigen. Jetzt werden die Erweiterungen nicht mehr ausgebelndet, sondern sind sichtbar.
+Eine detaillierte Anleitung gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice_Suffixanzeigen.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice_Suffixanzeigen.pdf,
+102,FALSE,FALSE,Microsoft Office - Suffix anzeigen,Microsoft_Office_Dokumente_verschicken,,Welche Office-Dokumente kann ich versenden?,"Wie sorge ich dafür, dass meine Office-Dokumente beim Versenden per Mail nicht zurückgewiesen werden, weil sie Viren enthalten könnten?
+Wie sorge ich dafür, dass meine Office-Dokumente beim Versenden per Mail nicht zurückgewiesen werden?",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice_Suffixanzeigen.pdf,
+103,FALSE,FALSE,Zeiterfassung,Zeiterfassung,,Wie kann ich das Online-Zeiterfassungsterminal aufrufen?,Wo kann ich meine Arbeitszeiten buchen?,Unter https://vw-online.hdm-stuttgart.de/qiszeb/ kann das Zeiterfassungsterminal aufgerufen werden.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+104,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Anmeldung,,Welche Anmeldedaten muss ich für die Zeiterfassung verwenden?,"Welche Zugangsdaten muss ich bei der Zeiterfassung verwenden?
+Wie melde ich mich bei der Zeiterfassung an?
+Wie komme ich zur HdM Zeiterfassung?",Für die Zeiterfassung unter https://vw-online.hdm-stuttgart.de/qiszeb/ gelten die Anmeldedaten des HdM-Accounts (zb die der Mailanmeldung).,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+105,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Buchung_Probleme,,Warum wird mir der Menüpunkt “Manuell Ein- und Ausbuchen” nicht angezeigt?,"Wo kann ich eine Buchung vornehmen?
+Warum fehlen die Buttons für die Buchung?
+Warum kann ich keine Buchung vornehmen?
+Warum kann ich meine Zeiten nicht buchen?","Der Menüpunkt ""Manuell Ein- und Ausbuchen"" ermöglicht es eine Buchung vorzunehmen. Wenn dieser Menüpunkt fehlt, prüfen Sie bitte rechts oben im blauen Balken ob Sie ""in der Rolle: Zeiterfasser/in"" angemeldet sind. Wenn das nicht der Fall ist können Sie die Rolle durch anklicken ändern.
+Für nähere Informationen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+106,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Buchung_Rolle,,Wie kann ich meine Rolle bei der Zeiterfassung ändern?,,"Im blauen Balken (rechts oben) kann die aktuelle Rolle (zb. Zeiterfasser/in) angeklickt werden. Daraufhin kann die gewünschte Rolle ausgewählt und damit geändert werden.
+Für Details gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+107,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Buchung_Dienstgang,,Warum kann ich keinen Dienstgang buchen?,"Was ist der Button Dienstgang?
+Wie buche ich einen Dienstgang?",Die Buchung eines Dienstganges ist zurzeit nicht möglich.,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+108,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Buchung_Kombination,,Kann ich das Online Zeiterfassungsterminal in Kombination mit den Zeiterfassungsterminals an der HdM nutzen?,,"Das Online Zeiterfassungsterminal ermöglicht es bei der mobilen Arbeit jeweils sofort Buchungen durchzuführen. Für der Arbeitszeiten an der HdM verwenden Sie bitte weiterhin die Zeiterfassungsterminals an der HdM. Die Nutzung der Zeiterfassungssysteme im Wechsel ist möglich, z.B. wenn Sie an einem Tag in mobiler Arbeit und an nächsten Tag an der HdM sind. Die Buchungen werden regelmäßig gegeneinander synchronisiert.",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf,
+109,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Uebersicht,,Wo finde ich eine Übersicht meiner erfolgten Buchungen?,"Wo kann ich alle Buchungen anschauen?
+Wo sehe ich meine alten Buchungen?",Vergangene Buchungen können über die Web-Schnittstelle angesehen werden unter https://vw-online.hdm-stuttgart.de/webaz/.,,https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf,
+110,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Nachbuchung,,Wie kann ich Nachbuchungen vornehmen?,Wie kann ich Korrekturen vornehmen?,"Über die Web-Schnittstelle (https://vw-online.hdm-stuttgart.de/webaz/) können Nachbuchungen und Korrekturen vorgenommen werden. Nähere Informationen stehen unter https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf und https://www.hdm-stuttgart.de/intranet/organisationshandbuch/eintrag?od_ID=2 im Abschnitt ""Arbeitszeit/Teilzeit und elektronische Zeiterfassung"" zur Verfügung.",,https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf,
+111,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Status,,Wo kann ich meinen Status bei der Zeiterfassung überprüfen?,Wie kann ich meinen Status prüfen?,"Nach jeder Buchung wird der Zeitstempel und der Typ der Buchung angezeigt.
+Auf eine ""Kommen"" Buchung kann dabei nur eine ""Gehen"" Buchung folgen und umgekehrt.
+Für Details zur Zeiterfassung gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf",,https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf,
+112,FALSE,FALSE,Zeiterfassung,Zeiterfassung_Ansprechpartner,,An wen kann ich mich bei Fragen zur Zeiterfassung wenden?,"Wem kann ich eine Rückmeldung zur Zeiterfassung geben?
+An wen kann ich mich bei Anregungen zur Zeiterfassung wenden?
+Wer kann mir bei Problemen mit der Zeiterfassung helfen?","Mit Fragen, Problemen, sonstigen Rückmeldungen oder Anregungen wenden Sie sich bitte per E-Mail an: sb@hdm-stuttgart.
+Oder bei inhaltlichen Fragen an die Personalabteilung (personal@hdm-stuttgart.de) und bei technischen Fragen an Hajo Czech (czech@hdm-stuttgart.de)",,https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf,
+113,FALSE,FALSE,Adobe,,,Wer kann das Angebot nutzen?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+114,FALSE,FALSE,Adobe,,,Kostet das Angebot etwas?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+115,FALSE,FALSE,Adobe,,,Wie lange ist das Angebot noch verfügbar?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+116,FALSE,FALSE,Adobe,,,Wie kann man sich für das Angebot anmelden?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+117,FALSE,FALSE,Adobe,,,Wann erhalte ich Zugang zu dem Angebot?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+118,FALSE,FALSE,Adobe,,,"Was muss ich tun, um das Angebot nutzen zu können?",,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+119,FALSE,FALSE,Adobe,,,"Was muss ich bei der Anmeldung beachten? (Datenschutz, Passwortwahl)",,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+120,FALSE,FALSE,Adobe,,,Welche Produkte von Adobe umfasst das Angebot?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+121,FALSE,FALSE,Adobe,,,Wo finde ich die kostenfreien Applikationen?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+122,FALSE,FALSE,Adobe,,,Gibt es alternativen?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+123,FALSE,FALSE,Adobe,,,Wie installiere ich Adobe unter MacOS?,,Die Lizenzen für Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten,,,
+124,FALSE,FALSE,alfaview,alfaview_beschreibung,,Was ist alfaview?,,„alfaview“ ist ein Videokonferenzprogramm. ,,,
+125,FALSE,FALSE,alfaview,alfaview_installation,,Wie installiere ich alfaview?,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/alfaviewinstall.pdf,,
+126,FALSE,FALSE,alfaview,alfaview_os,alfaview_installation,Wie installiere ich alfaview für Linux?,Wie installiere ich alfaview für MacOS?,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/alfaviewinstall.pdf,,
+127,FALSE,FALSE,alfaview,alfaview_find,alfaview_installation,Wo finde ich die Installationsdatei für alfaview?,,,https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/alfaviewinstall.pdf,,
+128,FALSE,FALSE,alfaview,alfaview_alternative,,Welche Alternativen hab ich zu alfaview?,Gibt es andere Programme?,"Es gibt an der hdm noch Zoom, Big Blue Button.",,,
+129,FALSE,FALSE,alfaview,alfaview_not_shared_content,alfaview_installation,"Was muss ich tun, wenn die Installationsdatei nicht im Ordner “Shared Content” ist?",,,https://alfaview.com/de/download/,,
+130,FALSE,FALSE,HdM VPN,,,Wie installiere ich VPN?,,Hier hast du den Link zur Installation für Open VPN https://www.hdm-stuttgart.de/intranet/services/iz-it/openvpn/dl/openvpn-hdm-vpn-UDP4-1194-install-2.4.7-I603.exe ,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+131,FALSE,FALSE,HdM VPN,VPN_Install,,Wo finde ich die Installationsdatei?,"Wo ist die Installtionsdatei?
+
+Gib mir den Link zur Installationsdatei von OpenVPN",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+132,FALSE,FALSE,HdM VPN,VPN_Install__1,,Was muss ich angeben bei der Frage nach Administratorrechten?,"Welche Angaben muss ich machen um Admin Rechte zu bekommen?
+Was muss ich tun, wenn ich keine Administratorrechte habe?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+134,FALSE,FALSE,HdM VPN,VPN_Install__2,,Woher bekomme ich ein Administratorpasswort?,WIe bekomme ich das Admin Passwort?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+135,FALSE,FALSE,HdM VPN,VPN_Install__3,,Wie muss ich bei der Installation vorgehen?,Was muss ich bei der Installation beachten?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+136,FALSE,FALSE,HdM VPN,VPN_Config,,Müssen bestimmte Einstellungen vorgenommen werden?,"Welche einstellungen muss ich vornehmen?
+
+Wie muss ich die VPN konfigurieren",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+137,FALSE,FALSE,HdM VPN,VPN_Config_TAP,,Muss ich den TAP-Netzwerkadapter installieren?,"Wie kann ich den TAP-Netzwerkadapter installieren?
+",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+138,FALSE,FALSE,HdM VPN,VPN_OPENVPN,,Wie benutze ich OpenVPN?,Wie verwende ich OpenVPN,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+139,FALSE,FALSE,HdM VPN,VPN_OPENVPN_at,,"Was muss ich nach der Installation tun, um OpenVPN zu nutzen?","Wie muss ich OpenVPN konfigurieren?
+Was muss ich nach der Installation beachten?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+140,FALSE,FALSE,HdM VPN,VPN_Config_find,,Wo finde ich das Konfigurationspaket?,"Wo kann ich das Konfigurationspaket herunterladen?
+Wo ist der Link um das Konfigurationspaket herunterzuladen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+141,FALSE,FALSE,HdM VPN,VPN_Config_version,,Welche Version von OpenVPN brauche ich?,"Funktioniert meine Version von OpenVPN noch?
+Warum geht mein VPN nicht?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+142,FALSE,FALSE,HdM VPN,VPN_Config_dl,,Wo muss ich den Download des Konfigurationspaketes speichern?,In welchen Ordner kommt das Konfigurationspaket?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+143,FALSE,FALSE,HdM VPN,VPN_Config_save,,"Ich kann die Dateien nicht abspeichern, was muss ich tun?",,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+144,FALSE,FALSE,HdM VPN,VPN_Install_start,,Wie muss ich beim Starten des Programms vorgehen?,Was muss ich beim Starten von VPN beachten?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+145,FALSE,FALSE,HdM VPN,VPN_Info,,Wer ist mein IT-Beauftragter?,An wen muss ich mich bei Fragen/Problemen wenden?,Hier ist eine Übersicht der aktuellen IT-Verantwortlichen zu finden: https://www.hdm-stuttgart.de/iz-it/it-verantwortliche ,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+146,FALSE,FALSE,HdM VPN,VPN_Config_show_icon,,"Was muss ich tun, damit das OpenVPN-Icon angezeigt wird?",Wie kann ich mir das OpenVPN-Icon anzeigen,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+147,FALSE,FALSE,HdM VPN,VPN_Start,,Wie starte ich OpenVPN?,Wie öffne ich OpenVPN?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+148,FALSE,FALSE,HdM VPN,VPN_Start__2,,Was muss beim Starten von OpenVPN beachtet werden?,,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+149,FALSE,FALSE,HdM VPN,VPN_Config_pw,,Welches Passwort muss ich verwenden nach dem Starten des Programms?,"GIlt das Intranet Passwort auch für die OpenVPN?
+Welches Passwort brauch ich für die OpenVPN?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+150,FALSE,FALSE,HdM VPN,VPN_Firewall,,Muss ich die Freigabe der Firewall bestätigen/zulassen?,,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+151,FALSE,FALSE,HdM VPN,VPN_Info_2connect,,"Was passiert, wenn ich mich mehrfach verbunden habe?","Ich habe mich mehrfach verbunden, wo sind meine anderen Verbindungen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdMVPN_installieren-einrichten.pdf,,
+152,FALSE,FALSE,HdM VPN,VPN_Programm,,Welche Programme kann ich ohne VPN nutzen?,GIbt es Programme die ich ohne VPN benutzen kann?,Du kannst alle Web Anwendungen ohne VPN benutzen.,,,
+153,FALSE,FALSE,HdM VPN,VPN_Install_MAC,,Wie installiere ich VPN?,Wie installiere ich VPN unter MAC?,Unter welchen OS?,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+154,FALSE,FALSE,HdM VPN,VPN_Install_MAC_find,,Wo finde ich die Installationsdatei für Tunnelblick?,"Wo finde ich den Link für Tunnelblick?
+Wo ist der Link zur Installation von Tunnelblick?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+155,FALSE,FALSE,HdM VPN,VPN_Config_MAC,,Wie muss Tunnelblick konfiguriert werden?,Gib mir bitte eine Anleitung zur Konfig von Tunnelblick,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+156,FALSE,FALSE,HdM VPN,VPN_Config_MAC_download,,Woher bekomme ich eine Konfigurationsdatei?,,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+157,FALSE,FALSE,HdM VPN,VPN_Config_MAC_signin,,Wie melde ich mich an?,Wo kann ich mich unter MAC anmelden?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+158,FALSE,FALSE,HdM VPN,VPN_Config_MAC_beachten,,Was muss ich bei der Anmeldung beachten?,Was muss ich bei der Anmeldung unter MacOS beachten?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+159,FALSE,FALSE,HdM VPN,VPN_Info_MAC_nutzung,,Was muss ich bei der Nutzung beachten?,Was muss ich bei der Nutzung von OPN VPN unter MacOS beachten?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+160,FALSE,FALSE,HdM VPN,VPN_Info_MAC_multiple_connects,,"Was passiert, wenn ich mich mehrfach verbunden habe?",Ich hab mich mehrfach mit VPN verbunden?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+161,FALSE,FALSE,HdM VPN,VPN_Info_MAC_multiple_connects_1,,"Ich habe mich mehrfach verbunden, wo sind meine anderen Verbindungen?","Wo sind meine Verbindungen hin, wenn ich mich mit VPN verbunden habe?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+162,FALSE,FALSE,HdM VPN,VPN_Info_MAC,,An wen muss ich mich bei Fragen/Problemen wenden?,"Wer ist mein IT Verantwortlicher?
+Wer ist mein Ansprechpartner in der IT?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/vpn_macosx_420.pdf,,
+163,FALSE,FALSE,HdM VPN,VPN_Home_Office,,Wie verbinde ich mich mit dem Netzwerk der HdM aus dem Home Office?,Wie verbinde ich mich mit OpenVPN?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/homeoffice.pdf,,
+165,FALSE,FALSE,HdM VPN,VPN_Home_Office_ip,,Welche IP-Adresse muss ich angeben?,,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/homeoffice.pdf,,
+166,FALSE,FALSE,HdM VPN,VPN_Home_Office_signout,,Wie muss ich mich vom dienstlichen Desktop abmelden?,Reicht es den dienstlichen Laptop herunterzufahren?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/homeoffice.pdf,,
+167,FALSE,FALSE,HdM VPN,VPN_Home_Office_sd,,"Was muss ich tun, wenn ich den dienstlichen Desktop heruntergefahren habe?",,,,,
+168,FALSE,FALSE,HdM VPN,VPN_Home_Office_vid,,Was muss ich bei Videokonferenzen beachten?,"Was muss ich bei Zoom beachten, wenn ich VPN nutze?
+",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/homeoffice.pdf,,
+169,FALSE,FALSE,HdM VPN,VPN_Home_Office_termin,,Wie kann ich wiederkehrende Termine erstellen?,"Wie kann ich Terminserien erstellen?
+Wie kann ich sich wiederholende Termine erstellen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/homeoffice.pdf,,
+170,FALSE,FALSE,HdM VPN,VPN_Home_Office_remote,,Wie stelle ich eine Remotedesktopverbindung mit MacOS her?,Wie stelle ich RDP  mit MAC OS her?,,,,
+171,FALSE,FALSE,Windows/IT-Verantwortliche,Windows_installation_LTSB,,Wie kann man Updates für Windows LTSB einbinden?,"Wie kann man die Installationszeit von Windows LTSB reduzieren? 
+Wie kann man Updates für Windows LTSB einrichten?
+Wie kann ich Windows LTSB installieren?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/InstallationUpdateLTSB.pdf,,
+172,FALSE,FALSE,Windows/IT-Verantwortliche,Windows_Installation_LTSC,,Wie kann man Updates für Windows LTSC einbinden?,"Wie kann man die Installationszeit von Windows LTSC reduzieren? 
+Wie kann man Updates für Windows LTSC einrichten?
+Wie kann man Windows LTSC installieren?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/InstallationUpdateLTSC.pdf,,
+173,FALSE,FALSE,Windows/IT-Verantwortliche,Windows_Installation_Office_2016,,Wie kann man Updates für die Installation von Office 2016 auf Windows einbinden?,"Wie kann man Office 2016 auf Windows installieren?
+Wie kann man die Installationszeit von Office 2016 auf Windows reduzieren? ",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/InstallationUpdateOffice2016.pdf,,
+174,FALSE,FALSE,Windows/IT-Verantwortliche,Windows_Netzwerkumstellung,,Wie kann ich schnell IP-Adressen auf Windows wechseln?,Wie kann ich das Wechseln von IP-Adressen auf Windows automatisieren?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Netzwerkumstellung.pdf,,
+175,FALSE,FALSE,Windows/IT-Verantwortliche,Windows_Bootmedium_USB-Stick,,Wie kann ich meinen USB-Stick bootfähig machen?,"Wie kann ich mit einem USB-Stick ein Betriebssystem installieren?
+Wie kann ich einen bootfähigen Datenträger erstellen",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/USBStick_bootfaehigmachen.pdf,,
+176,FALSE,FALSE,Drucker/Scanner,Setup_Kyocera_Scanner,,Wie kann ich einen Kyocera Scanner einrichten?,"WIe richte ich einen Scanner ein? 
+Wie kann ich scannen? 
+Wie scanne ich mit einem Kyocera Scanner?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/KyoceraScanner_Einrichtung.pdf,,
+177,FALSE,FALSE,Drucker/Scanner,Setup_Kyocera_AdobeAcrobat,,Wie kann ich einen Kyocera Scanner bei Adobe Acrobat auswählen?,"Wie kann ich mit Adobe Acrobat scannen?
+Wie stelle ich einen Scanner bei Adobe Acrobat ein?
+Wie kann ich über Adobe Acrobat scannen?
+WIe kann ich mit einem Kyocera Scanner und Adobe Acrobat scannen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/KyoceraAcrobatEinstellungen.pdf,,
+178,FALSE,FALSE,Drucker/Scanner,Setup_Samsung_Scanner,,Wie kann ich einen Samsung Scanner einrichten?,"WIe richte ich einen Scanner ein? 
+Wie kann ich scannen? 
+Wie scanne ich mit einem Samsung Scanner?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/SamsungScanner_Einrichtung.pdf,,
+179,FALSE,FALSE,Drucker/Scanner,Setup_Canon_Safe_Print,,Wie kann ich mit einem Canon Kopierer drucken?,"Wie kann ich mit Canon drucken?
+WIe schließe ich die Einrichtung von einem Canon Drucker ab?
+Was ist geschützer Druck?
+Wie richte ich einen geschützten Druck ein?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Canonkopierer_geschuetzterDruck.pdf,,
+180,FALSE,FALSE,Drucker/Scanner,Canon_Scan_USB,,Wie speicher ich einen Scan auf einen USB-Stick?,"Wie speichere ich vom Drucker Daten auf einen USB-Stick?
+Wie richte ich einen USB bei einem Drucker ein?
+Wie verwende ich einen USB-Stick bei einem Canon Kopierer?
+Wie speichere ich ein gescanntes Dokument auf einem USB-Stick?
+Kann ich einen Scan auf einem USB-Stick speichern?
+Kann ich direkt vom Scanner auf einen USB-Stick speichern?",,"https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Canonkopierer_ScanUSB.pdf
+https://www.hdm-stuttgart.de/intranet/iformulare/formular20160908163920/Anleitung_Scann_USB.pdf",,
+181,FALSE,FALSE,Drucker/Scanner,Scan_Mailversand,,Wie kann ich eine Datei scannen und per Mail versenden?,Wie verschicke ich einen Scan per Mail?,,https://www.hdm-stuttgart.de/intranet/iformulare/formular20160908163821/Anleitung_Mail.pdf,,
+182,FALSE,FALSE,Drucker/Scanner,Drucker_Treiber,,Welchen Druckertreiber brauche ich zum Drucken?,Wo finde ich die Druckertreiber für die HdM?,,https://www.hdm-stuttgart.de/intranet/services/infrastruktur/kopierer/02,https://www.hdm-stuttgart.de/intranet/services/infrastruktur/kopierer/02,
+183,FALSE,FALSE,HdM OX,Setup_Mail_Signature,,Wie richte ich eine E-Mail Signatur ein?,"Wie kann ich eine Signatur einrichten?
+Kann ich eine Signatur bei HdM OX einrichten?
+Welche Möglichkeiten habe ich bei HdM OX um eine Signatur zu machen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdM-OX_Signatur.pdf,,
+184,FALSE,FALSE,HdM OX,Setup_Mail_Spam_Filter,,Wie richte ich eine E-Mail Signatur ein?,"Wie kann ich mich vor Spam schützen?
+Wie filtere ich E-Mails automatisiert?
+Wie sortiere ich Spam-Mails aus?
+Wie richte ich einen Spam Filter bei der HdM-Mail ein?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdM-OX_SPAM-Filter.pdf,,
+185,FALSE,FALSE,HdM OX,Setup_OutOfOffice_Message,,Wie richte ich eine Abwesenheitsnachricht ein?,"Ich bin im Urlaub, was kann ich tun?
+Wie zeige ich automatisiert per Mail meine Abwesenheit an?
+Kann ich per Mail zeigen, dass ich vorrübergehend nicht erreichbar bin?
+Kann ich eine Abwesenheitsnachricht bei HdM OX einrichten?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdM-OX_Abwesenheitsnachricht.pdf,,
+186,FALSE,FALSE,HdM OX,Mail_Calendar_Share,,Wie gebe ich einen Kalender freigeben?,"Wie kann ich meinen Kalender teilen?
+Wie teile ich einen Kalender mit Arbeitskollegen?
+WIe richte ich einen gemeinsamen Kalender ein?
+Kann ich mit anderen Kollegen mir einen Kalender teilen?
+Kann ich einen gemeinsamen Kalender anlegen?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/HdM-OX_Kalenderfreigabe.pdf,,
+187,FALSE,FALSE,HdM Ox,mail_weiterleitung,,Wie kann ich die Weiterleitung deaktivieren ? ,Wie kann ich die email weiterleitung aktivieren ?,,,,
+188,FALSE,FALSE,Filestore,Filestore_Integr,,Wie binde ich Filestore in den Windows Explorer ein?,Wie binde ich das Netzlaufwerk in den WIndows Explorer ein?,,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Filestore_WindowsExplorereinbinden.pdf,,
+189,FALSE,FALSE,Filestore,ownCloud/HdMFileStore Sync-Client_Install_Config,,Wie installiere ich den ownCloud/HdMFileStore Sync-Client?,"Wie konfiguriere ich den ownCloud/HdMFileStore Sync-Client?
+Wie passe ich die Konfiguration des Sync-Clients an?
+Wie passe ich die Konfiguration des Sync-Clients nachträglich an?
+",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Filestore_SyncClient.pdf,,
+190,FALSE,FALSE,Filestore,HdMFileStore-Account_Setting,,Wo nehme ich Einstellungen für meinen HdMFileStore-Account vor?,Wo ändere ich die Einstellungen für meinen HdMFileStore-Account?,,,,
+191,FALSE,FALSE,Filestore,Sync-Client_Download_Info,,Wo finde ich die Links zum Download des Sync-Clients?,"Wo kann ich den Sync-Client downloaden?  
+Wo fiinde ich den Sync-Client?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Filestore_SyncClient.pdf,,
+192,FALSE,FALSE,Filestore,Sync-Client_Setup,,Wie richte ich den Sync-Client ein?,Wie nehme ich eine Einrichtung des Sync-Clients vor?,,,,
+193,FALSE,FALSE,Filestore,HdMFileStore_Sync,,Wie synchronisiere ich Inhalte des HdMFileStore lokal auf einen Computer?,"Wie synchronisiere ich Inhalte des HdMFileStore lokal auf einen Ordner?
+Wie synchronisiere ich Inhalte des HdMFileStore lokal auf eine Festplatte?
+Wie kann ich Synchronisationsprotokoll anzeigen lassen?
+Wo finde ich das Synchronisationsprotokoll?",,,,
+194,FALSE,FALSE,Filestore,Filestore_Note,,"Was passiert, wenn Dateien vom synchronisierten lokalen Ordner gelöscht werden?","Was passiert, wenn Dateien vom synchronisierten lokalen Ordner geändert werden?",,,,
+195,FALSE,FALSE,Drucker/Scanner,Kyocera_M5526_Bedienung,,Wie bediene ich einen Kyocera M5526 Scanner?,"Wo finde ich das Handbuch für den Kyocera M5526 Scanner?
+Wo finde ich die Anleitung für den Kyocera M5526 Scanner?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/KyoceraM5526.pdf,,
+196,FALSE,FALSE,Drucker/Scanner,Kyocera_M2635_Bedienung,,Wie bediene ich einen Kyocera M2635 Scanner?,"Wo finde ich das Handbuch für den Kyocera M2635 Scanner?
+Wo finde ich die Anleitung für den Kyocera M2635 Scanner?",,https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/KyoceraM2635.pdf,,
+197,FALSE,FALSE,Zoom,Zoom_Datenschutz,,Was muss ich in Zoom zum Datenschutz beachten?,Wo finde ich die Datenschutzbestimmungen von Zoom?,,https://www.hdm-stuttgart.de/intranet/services/it/IT_Professional_Services/Webconferencing/Datenschutz_Zoom,,
+198,FALSE,FALSE,HdM Card Mitarbeiter,HdMCard_General,,Wie mache ich was?,,,https://www.hdm-stuttgart.de/intranet/beschaeftigte/selbstverwaltung/hdmcard/anleitungen,,
+199,FALSE,FALSE,HdM Card Studenten,HdMCard_General,,Was kann ich damit tun?,Was ist die HdM Card?,,https://www.hdm-stuttgart.de/intranet/studierende/service/hdmcard,,
+200,FALSE,FALSE,Zertifikate & Signaturen,zertifikate_signaturen,,Welche Zertifikate und Signaturen werden verwendet?,"Welche Zertifikate und Signaturen kann ich verwenden?
+Zertifikate und Signaturen
+Zertifikate
+Signaturen
+Gekaufte Zertifikate
+Anwendung von Zertifikaten
+DFN-PKI
+","Unter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen findest du alle Informationen zu Zertifikaten, deren Anwendung, gekaufter Zertifikate und zu DFN-PKI.",https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen,,
+201,FALSE,FALSE,Zertifikate & Signaturen,zertifikate_signaturen_dnf-pki,zertifikate_signaturen,Wie funktioniert DNF-PKI?,DNF-PKI Abnwenden,Unter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_server-zertifikate finden Sie alle Informationen und Anleitungen zum DFN-PKI Serverzertifikat und unter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_nutzer-zertifikate alle Informatione zum Nutzerzertifikat.,"https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_server-zertifikate
+https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_nutzer-zertifikate
+
+",,
+202,FALSE,FALSE,Zertifikate & Signaturen,zertifikate_signaturen_gekaufte,zertifikate_signaturen,Gekaufte Zertifikate,"Wie funktionieren gekaufte Zertifikate
+gekaufte Zertifikate verwenden","Gekaufte Zertifikate werden von externen Dienstleistern bezogen und werden für gewöhnlich ohne weiteres Zutun des Anwenders verwendet, da die übergeordneten Zertifikate in den jeweiligen Programmen, wie zum Beispiel Internetbrowser oder E-Mail-Programm, bereits integriert sind.",https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen,,
+203,FALSE,FALSE,Software,software_hochschulangehoerige,,Welche Software gibt es?,"Welche Software bekomme ich von der HDM?
+Welche Software gibt es für Mitarbeiter?
+Welche Software gibt es für Studierende?
+Welche Software stellt die HDM zur verfügung?
+",Software welche von der HDM zur Verfügung gestellt wird fndest du unter https://www.hdm-stuttgart.de/intranet/services/it/IT_Professional_Services/rahmenvertraege,https://www.hdm-stuttgart.de/intranet/services/it/IT_Professional_Services/rahmenvertraege,,
+204,FALSE,FALSE,SB-Funktionen,SB_funktionen_anforderungen,SB_funktionen,Was benötige ich um die SB-Funktionen nutzen zu können? ,Technische Anforderungen für SB-Funktionen?,"Alle technischen Anforderungen und eine kurze beschreibung wie du die SB-Funktionen nutzen kannst, findest du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb/anforderungen",https://www.hdm-stuttgart.de/intranet/studierende/service/sb/anforderungen,,
+205,FALSE,FALSE,SB-Funktionen,SB_funktionen,,Was sind die SB-Funktionen?,"Was kann ich in den SB-Funktionen machen?
+Wie funktionieren die SB-Funktionen?
+Wo sind die SB-Funnktionen?","In den SB-Funktionen kannst du zum Beispiel deine persöhnlichen Daten ändern, dich für Prüfungen an und Abmelden, deine Noten einsehen, dich zurückmelden und einiges mehr. 
+Den gesamten Funktionsumfang mit einer erklärung findest du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb",https://www.hdm-stuttgart.de/intranet/studierende/service/sb,,
+206,FALSE,FALSE,,,,,,,,,
+207,FALSE,FALSE,,,,,,,,,
+208,FALSE,FALSE,,,,,,,,,
+209,FALSE,FALSE,,,,,,,,,
+210,FALSE,FALSE,,,,,,,,,
+211,FALSE,FALSE,,,,,,,,,
+212,FALSE,FALSE,,,,,,,,,

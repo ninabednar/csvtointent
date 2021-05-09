@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Passwort_Regeln",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Passwort_Regeln",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Diese Bedingungen muss ein Passwort erf\u00fcllen:\n10-14 Zeichen\nmindestens 1 Zahl, Gro\u00dfbuchstabe, Kleinbuchstabe\neines der Sonderzeichen ! . , ; + - _ = # $ ( ) [ ] { } & *\nkeines der Zeichen < > | \u00a7 @ \u20ac ? : % ^ \\ \" ' ` \u00b0 ~\nkeine Umlaute, Leerzeichen oder diakritische Zeichen (\u00e8, \u00f1, \u00e2 u.\u00e4.)\nnicht mehr als 5 Buchstaben in Folge\nDie Bedingungen sind hier aufgef\u00fchrt: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Passwortregeln.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

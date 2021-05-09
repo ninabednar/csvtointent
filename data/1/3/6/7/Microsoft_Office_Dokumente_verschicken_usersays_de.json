@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Office-Dokumente kann ich versenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie sorge ich daf\u00fcr, dass meine Office-Dokumente beim Versenden per Mail nicht zur\u00fcckgewiesen werden, weil sie Viren enthalten k\u00f6nnten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie sorge ich daf\u00fcr, dass meine Office-Dokumente beim Versenden per Mail nicht zur\u00fcckgewiesen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Zeiterfassung_Uebersicht",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Zeiterfassung_Uebersicht",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Vergangene Buchungen k\u00f6nnen \u00fcber die Web-Schnittstelle angesehen werden unter https://vw-online.hdm-stuttgart.de/webaz/."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

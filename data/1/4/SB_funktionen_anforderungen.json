@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "SB_funktionen_anforderungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SB_funktionen_anforderungen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Alle technischen Anforderungen und eine kurze beschreibung wie du die SB-Funktionen nutzen kannst, findest du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb/anforderungen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

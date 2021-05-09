@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "zertifikate_signaturen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "zertifikate_signaturen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Unter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen findest du alle Informationen zu Zertifikaten, deren Anwendung, gekaufter Zertifikate und zu DFN-PKI."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

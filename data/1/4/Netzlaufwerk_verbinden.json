@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Netzlaufwerk_verbinden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Netzlaufwerk_verbinden",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Eine Verbindung zu den Laufwerken S:\\ und H:\\ sollte bereits vorhanden sein, falls eine der ben\u00f6tigten Verbindungen fehlt, findet sich hier eine ausf\u00fchrliche Anleitung https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

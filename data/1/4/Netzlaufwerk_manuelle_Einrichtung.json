@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Netzlaufwerk_manuelle_Einrichtung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Netzlaufwerk_manuelle_Einrichtung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Eine ausf\u00fchrliche Anleitung zu Netzlaufwerkverbindungen findet sich hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Netzlaufwerkverbinden.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "PC_erste_Anmeldung_Taskleiste",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PC_erste_Anmeldung_Taskleiste",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "An die Taskleiste k\u00f6nnen Programme mit einem Rechtsklick auf das Icon und Auswahl \"An Taskleiste anheften\" angeheftet werden."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

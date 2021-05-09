@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Zeiterfassung_Buchung_Probleme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Zeiterfassung_Buchung_Probleme",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Der Men\u00fcpunkt \"Manuell Ein- und Ausbuchen\" erm\u00f6glicht es eine Buchung vorzunehmen. Wenn dieser Men\u00fcpunkt fehlt, pr\u00fcfen Sie bitte rechts oben im blauen Balken ob Sie \"in der Rolle: Zeiterfasser/in\" angemeldet sind. Wenn das nicht der Fall ist k\u00f6nnen Sie die Rolle durch anklicken \u00e4ndern.\nF\u00fcr n\u00e4here Informationen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
