@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "zertifikate_allgemein",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "zertifikate_allgemein",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            " Mithilfe eines Zertifikats kann sich ein Server, auf dem \nDienste angeboten werden, gegen\u00fcber einem anfragenden \nProgramm (Client) ausweisen, womit der Client sichergehen\n kann, mit dem richtigen Server zu kommunizieren."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Anwendung_Filestore_wiederherstellen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anwendung_Filestore_wiederherstellen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Der Papierkorb ein Sicherheitsfeature dar, um das versehentliche L\u00f6schen von Dateien nicht fatal enden zu lassen. Um Dateien aus dem Papierkorb wiederherzustellen, machen einen Rechtsklick auf die Datei und w\u00e4hle \"Wiederherstellen\". Der Inhalt des Papierkorbes ist ebenfalls nicht dauerhaft!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

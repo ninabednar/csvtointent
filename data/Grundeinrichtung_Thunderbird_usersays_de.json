@@ -3,19 +3,6 @@
     "id": "",
     "data": [
       {
-        "text": "Wie richte ich eine bestehende E-Mail-Adresse bei Thunderbird ein?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
         "text": "Wie richte ich Thunderbird ein?",
         "userDefined": false
       }
@@ -29,7 +16,33 @@
     "id": "",
     "data": [
       {
-        "text": "Wie ist die Grundeinrichtung?",
+        "text": "Wie ist die Grundeinrichtung bei Thunderbird?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie richtet man Thunderbird ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was muss man bei der Einrichtung von Thunderbird beachten?",
         "userDefined": false
       }
     ],

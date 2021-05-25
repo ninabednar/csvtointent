@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "antivirus_sophos_verfuegbar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "antivirus_sophos_verfuegbar",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Es stehen Installer f\u00fcr Windows (reiner Virenschutz oder Virenschutz mit Firewall) und Installationspakete f\u00fcr macOS und Linux (nur Virenschutz) bereit."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

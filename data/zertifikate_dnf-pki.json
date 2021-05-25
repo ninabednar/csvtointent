@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "zertifikate_dnf-pki",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "zertifikate_dnf-pki",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Unter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_server-zertifikate findest du alle Informationen und Anleitungen zum DFN-PKI Serverzertifikat.\nUnter https://www.hdm-stuttgart.de/intranet/services/iz-it/zertifikate_signaturen/dfn-pki_nutzer-zertifikate sind alle Informatione zum Nutzerzertifikat aufgef\u00fchrt."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

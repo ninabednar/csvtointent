@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Was ist Citrix?",
+        "text": "Wie erstelle ich eine Citrix-Verkn\u00fcpfung?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Was ist Citrix?",
+        "text": "Wie erstelle ich eine Citrix-Verkn\u00fcpfung auf dem Desktop?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,33 @@
     "id": "",
     "data": [
       {
-        "text": "F\u00fcr was ist eine Citrix-Verkn\u00fcpfung?",
+        "text": "Wie mache ich eine Citrix-Verkn\u00fcpung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie lege ich eine Citrix Verkn\u00fcpfung an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie f\u00fcge ich eine Citrixverkn\u00fcpfung hinzu?",
         "userDefined": false
       }
     ],

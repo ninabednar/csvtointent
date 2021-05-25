@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Unterschiedliche Ger\u00e4te zur Verwendung von Microsoft Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Mehrere Ger\u00e4te zur Verwendung von Office?",
         "userDefined": false
       }
     ],

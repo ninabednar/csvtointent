@@ -16,7 +16,33 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Wie kann man den CDBurner einrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie geht die Einrichtung des CDBurners?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie funktioniert die Einrichtung des CDBurnerXPs?",
         "userDefined": false
       }
     ],

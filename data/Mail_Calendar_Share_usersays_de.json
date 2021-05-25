@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie gebe ich einen Kalender freigeben?",
+        "text": "Wie gebe ich einen Kalender in HdM OX frei?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie kann ich meinen Kalender teilen?",
+        "text": "Wie kann ich meinen Kalender in HdM OX teilen?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie teile ich einen Kalender mit Arbeitskollegen?",
+        "text": "Wie teile ich einen Kalender mit Arbeitskollegen per Mailserver?",
         "userDefined": false
       }
     ],
@@ -42,7 +42,7 @@
     "id": "",
     "data": [
       {
-        "text": "WIe richte ich einen gemeinsamen Kalender ein?",
+        "text": "WIe richte ich einen gemeinsamen Kalender in HdM OX ein?",
         "userDefined": false
       }
     ],
@@ -55,7 +55,7 @@
     "id": "",
     "data": [
       {
-        "text": "Kann ich mit anderen Kollegen mir einen Kalender teilen?",
+        "text": "Kann ich mit anderen Kollegen mir einen Mail-Kalender teilen?",
         "userDefined": false
       }
     ],
@@ -68,7 +68,20 @@
     "id": "",
     "data": [
       {
-        "text": "Kann ich einen gemeinsamen Kalender anlegen?",
+        "text": "Wie richte ich einen Abteilungskalender in HdM OX ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie erteile ich meinen Kollegen Zugriff auf einen Mail-Kalender?",
         "userDefined": false
       }
     ],

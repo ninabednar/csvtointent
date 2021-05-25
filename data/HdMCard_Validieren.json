@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "HdMCard_Validieren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HdMCard_Validieren",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Die G\u00fcltigkeitsdauer und das VVS-Logo f\u00fcr das \nSemesterticket k\u00f6nnen an den Service-Terminals\nselbst aufdruckt werden. Jeweils im Foyer der Nobelstra\u00dfe \n8 und 10 stehen Terminals zur Verf\u00fcgung."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            ""
+            "Die HdM pr\u00fcft Mails automatisch darauf, ob es sich um SPAM handelt. Die als SPAM erkannte Mail werden in der Betreff-Zeile zus\u00e4tzlich mit dem Eintrag ***SPAM*** markiert. Diese Mails kannst Du dann mittels eines Filters in einen anderen Ordner umleiten. Eine Anleitung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdM-OX_SPAM-Filter.pdf"
           ]
         }
       ],

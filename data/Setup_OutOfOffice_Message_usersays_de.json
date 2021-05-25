@@ -3,20 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie richte ich eine Abwesenheitsnachricht ein?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Ich bin im Urlaub, was kann ich tun?",
+        "text": "Wie richte ich eine Abwesenheitsnachricht in HdM OX ein?",
         "userDefined": false
       }
     ],
@@ -56,6 +43,19 @@
     "data": [
       {
         "text": "Kann ich eine Abwesenheitsnachricht bei HdM OX einrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie richte ich eine Out Of Office Nachricht ein?",
         "userDefined": false
       }
     ],

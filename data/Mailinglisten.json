@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Mailinglisten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mailinglisten",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Mit den Mailinglisten der HdM ist es m\u00f6glich, unterschiedliche Personengruppen \u00fcber eine E-Mail-Adresse zu erreichen. Es werden drei Mailinglisten unterschieden: Zentraldefinierte Mailinglisten (ZML), Studierenden-Mailinglisten (SML) und Benutzerdefinierte Mailinglisten (BML). Weiter Informationen zu Mailinglisten und ihrer Verwendung findest Du hier unter Mailinglisten:  https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

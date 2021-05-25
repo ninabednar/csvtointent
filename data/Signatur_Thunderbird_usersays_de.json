@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie erstelle ich eine Signatur?",
+        "text": "Wie erstelle ich eine Signatur f\u00fcr Thunderbird?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,33 @@
     "id": "",
     "data": [
       {
-        "text": "K\u00f6nnen Kontaktdaten automatisch eingef\u00fcgt werden?",
+        "text": "K\u00f6nnen Kontaktdaten automatisch beim Schreiben einer Mail in Thunderbird eingef\u00fcgt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie f\u00fcgt man in Thunderbird eine Signatur hinzu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie erg\u00e4nzt man f\u00fcr Thunderbird eine Signatur?",
         "userDefined": false
       }
     ],

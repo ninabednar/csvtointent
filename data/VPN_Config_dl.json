@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            ""
+            "Der Inhalt des Konfigurationspakets muss im folgenden Ordner liegen, um richtig zu funktionieren: \u201eC:\\Programme\\OpenVPN\\config\u201c"
           ]
         }
       ],

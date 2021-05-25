@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wieso wird mein Computer/Notebook lauter?",
+        "text": "Wieso wird mein Computer lauter?",
         "userDefined": false
       }
     ],
@@ -30,6 +30,84 @@
     "data": [
       {
         "text": "Wieso l\u00e4uft die Prozessorl\u00fcftung st\u00e4ndig auf Volllast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wieso wird mein Notebook lauter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Warum ist die L\u00fcftung so laut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie kann ich mein Notebook leiser machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Warum wird mein PC lauter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Warum wird mein Rechner lauter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie reduziere ich die CPU-Last?",
         "userDefined": false
       }
     ],

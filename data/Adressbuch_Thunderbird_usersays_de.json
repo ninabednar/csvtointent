@@ -16,7 +16,33 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Wie richtet man bei Thunderbrid das Adressbuch der HdM ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie richte ich das Adressbuch der HdM f\u00fcr Thunderbird ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie f\u00fcge ich das Adressbuch der HdM bei Thunderbird hinzu?",
         "userDefined": false
       }
     ],
