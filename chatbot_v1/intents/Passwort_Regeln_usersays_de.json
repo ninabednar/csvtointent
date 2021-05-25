@@ -1,0 +1,80 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Passwortregeln gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Bedingungen muss ein Passwort f\u00fcr einen Account der HdM erf\u00fcllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Passwortrichtlinien gelten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Zeichen m\u00fcssen enthalten sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Zeichen d\u00fcrfen nicht enthalten sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie muss das Passwort sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

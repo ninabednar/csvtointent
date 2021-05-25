@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Woher bekomme ich eine Konfigurationsdatei?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Gibt es f\u00fcr einen Mac Konfigurationsdateien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Gibt es f\u00fcr den Mac Dateien mit den ben\u00f6tigten Einstellungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

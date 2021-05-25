@@ -1,0 +1,54 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was muss ich vor der Nutzung von bwLehrpool beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo bekomme ich Zugang zum bwLehrpool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie installiere ich bwLehrpool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Systemvoraussetzungen gibt es f\u00fcr den bwLehrpool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

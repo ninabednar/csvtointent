@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Windows_installation_LTSB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Windows_installation_LTSB",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Um die Installationszeit zu reduzieren, die vor allem durch die Downloadzeit der Updates der Microsoft-Produkte entsteht, besteht die M\u00f6glichkeit, in die Windows- und in die Office-Installationsdaten Updates bereits einzubinden. Hier findest Du eine Anleitung dazu: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/InstallationUpdateLTSB.pdf "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

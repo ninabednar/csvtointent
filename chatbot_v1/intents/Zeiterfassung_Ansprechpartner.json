@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Zeiterfassung_Ansprechpartner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Zeiterfassung_Ansprechpartner",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Mit Fragen, Problemen, sonstigen R\u00fcckmeldungen oder Anregungen wenden Sie sich bitte per E-Mail an: sb@hdm-stuttgart.\nOder bei inhaltlichen Fragen an die Personalabteilung (personal@hdm-stuttgart.de) und bei technischen Fragen an Hajo Czech (czech@hdm-stuttgart.de)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

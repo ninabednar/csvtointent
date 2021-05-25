@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Version von OpenVPN brauche ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Funktioniert meine Version von OpenVPN noch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Warum geht mein VPN nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

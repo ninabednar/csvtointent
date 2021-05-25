@@ -1,5 +1,5 @@
 {
-  "id": "02c08c60-148e-417d-a5b2-ec364f608d76",
+  "id": "",
   "name": "Junkfilter_Thunderbird",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Thunderbird erm\u00f6glicht es einen selbstlernenden Junk-Filter einzusetzen. Wie das geht wird hier genauer beschrieben: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Thunderbird_Junkfilter.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

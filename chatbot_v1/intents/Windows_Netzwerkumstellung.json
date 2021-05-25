@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Windows_Netzwerkumstellung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Windows_Netzwerkumstellung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Bei Computern, die in verschiedenen Netzwerksegmenten eingesetzt werden, kann es sinnvoll sein, die IP-Adressen schnell zu wechseln. Eine Anleitung f\u00fcr die Automatisierung der Netzwerkumstellung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Netzwerkumstellung.pdf "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,5 +1,5 @@
 {
-  "id": "f5d0558c-ee0b-46b4-a511-ae538a458b14",
+  "id": "",
   "name": "Datensicherung_Firefox",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Zur Sicherung und Übertragung von Links und Einstellungen in Firefox gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 10 im Abschnitt \"Firefox – Links und Einstellungen sichern\")"
-          ],
-          "condition": ""
+            "Zur Sicherung und \u00dcbertragung von Links und Einstellungen in Firefox gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 10 im Abschnitt \"Firefox \u2013 Links und Einstellungen sichern\")"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

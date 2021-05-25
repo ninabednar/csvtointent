@@ -1,5 +1,5 @@
 {
-  "id": "954b86fa-85fc-405f-8166-af82dde2cb8b",
+  "id": "",
   "name": "alfaview_alternative",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
             "Es gibt an der hdm noch Zoom, Big Blue Button."
-          ],
-          "condition": ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

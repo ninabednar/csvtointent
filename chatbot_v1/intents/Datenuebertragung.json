@@ -1,5 +1,5 @@
 {
-  "id": "667cf98e-c99d-4287-9a19-7c1334dccf3b",
+  "id": "",
   "name": "Datenuebertragung",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Zur Übertragung der Daten, die gesichert werden sollen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 17, Abschnitt \"Rückspielen der gesicherten Daten auf den neuen Computer\")"
-          ],
-          "condition": ""
+            "Zur \u00dcbertragung der Daten, die gesichert werden sollen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 17, Abschnitt \"R\u00fcckspielen der gesicherten Daten auf den neuen Computer\")"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

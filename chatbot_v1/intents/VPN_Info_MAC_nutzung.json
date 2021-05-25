@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Info_MAC_nutzung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Info_MAC_nutzung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Bei der Nutzung musst du mehrere Punkte beachten. Diese findest du am Ende der Anleitung unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

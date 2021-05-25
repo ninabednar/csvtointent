@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Citrix_Aufruf_Firefox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Citrix_Aufruf_Firefox",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Unter der Adresse \"10.10.36.140/Citrix/XenApp\" kann die Anwendung im Browser aufgerufen werden. Der Link muss daf\u00fcr in die Adresszeile des Browsers eingegeben werden. Weitere Informationen sind hier zu finden: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/IReMo_verbinden.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

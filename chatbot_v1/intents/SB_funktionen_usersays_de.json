@@ -1,0 +1,54 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was sind die SB-Funktionen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was kann ich in den SB-Funktionen machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo kann ich mich zu Pr\u00fcfungen anmelden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo kann ich mich r\u00fcckmelden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

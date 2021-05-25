@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Config_MAC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Config_MAC",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Die Anleitung zur Konfiguration von Tunnelblick findest du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

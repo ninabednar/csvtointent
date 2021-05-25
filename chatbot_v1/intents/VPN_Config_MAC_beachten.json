@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Config_MAC_beachten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Config_MAC_beachten",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Speicher dein Passwort bitte nicht ab, da es sonst zu Verbindungsproblemen kommt und ein hohes Sicherheitsrisiko darstellt. "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

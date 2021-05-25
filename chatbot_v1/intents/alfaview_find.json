@@ -1,5 +1,5 @@
 {
-  "id": "1b9032f0-d92a-43a9-b507-901eb9fcc00a",
+  "id": "",
   "name": "alfaview_find",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

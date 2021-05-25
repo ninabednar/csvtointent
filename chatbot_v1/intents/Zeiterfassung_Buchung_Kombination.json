@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Zeiterfassung_Buchung_Kombination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Zeiterfassung_Buchung_Kombination",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Das Online Zeiterfassungsterminal erm\u00f6glicht es bei der mobilen Arbeit jeweils sofort Buchungen durchzuf\u00fchren. F\u00fcr der Arbeitszeiten an der HdM verwenden Sie bitte weiterhin die Zeiterfassungsterminals an der HdM. Die Nutzung der Zeiterfassungssysteme im Wechsel ist m\u00f6glich, z.B. wenn Sie an einem Tag in mobiler Arbeit und an n\u00e4chsten Tag an der HdM sind. Die Buchungen werden regelm\u00e4\u00dfig gegeneinander synchronisiert."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

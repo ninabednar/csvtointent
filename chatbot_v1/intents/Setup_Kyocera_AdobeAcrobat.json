@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Setup_Kyocera_AdobeAcrobat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Setup_Kyocera_AdobeAcrobat",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "\u00dcber IrfanView kannst Du Einstellungen f\u00fcr Kyocera-Scanner t\u00e4tigen. Hier findest Du eine Anleitung zum Thema: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/KyoceraAcrobatEinstellungen.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

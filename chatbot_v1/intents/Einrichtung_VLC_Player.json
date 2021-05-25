@@ -1,5 +1,5 @@
 {
-  "id": "46d9fefa-4983-4e94-92a8-bc3cab5cea17",
+  "id": "",
   "name": "Einrichtung_VLC_Player",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Für die Details zur Einrichtung des VLC Players gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf"
-          ],
-          "condition": ""
+            "F\u00fcr die Details zur Einrichtung des VLC Players gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Computer_Erstanmeldung.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

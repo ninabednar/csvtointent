@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was muss bei der ersten Anmeldung am Computer beachtet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was muss bei der ersten Anmeldung am PC beachtet werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie melde ich mich zum ersten Mal am Computer an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

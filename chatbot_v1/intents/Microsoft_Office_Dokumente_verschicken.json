@@ -1,5 +1,5 @@
 {
-  "id": "20548a2f-7ba6-4306-9141-821f106d5f59",
+  "id": "",
   "name": "Microsoft_Office_Dokumente_verschicken",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

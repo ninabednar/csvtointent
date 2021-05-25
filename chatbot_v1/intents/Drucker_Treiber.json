@@ -1,5 +1,5 @@
 {
-  "id": "6dfac40b-dd4d-41fb-9de2-8416b9e9c3d8",
+  "id": "",
   "name": "Drucker_Treiber",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Die n\u00f6tigen Treiber findest Du im Hochschulnetz unter\n\n\\\\fs1.hdm-stuttgart.de\\rz-service\\Druckertreiber\\Canon\\Canon_iR_ADV_5255-5235"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

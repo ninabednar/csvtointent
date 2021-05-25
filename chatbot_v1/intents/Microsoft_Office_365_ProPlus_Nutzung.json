@@ -1,5 +1,5 @@
 {
-  "id": "ad739a7b-daba-4ac7-9584-b8d562fd9f91",
+  "id": "",
   "name": "Microsoft_Office_365_ProPlus_Nutzung",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Das Angebot kann über diesen Link aufgerufen werden: https://bildung365.de. Hier muss als Bildungseinrichtung die Hochschule der Medien ausgewählt werden.\nWeitere Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf"
-          ],
-          "condition": ""
+            "Das Angebot kann \u00fcber diesen Link aufgerufen werden: https://bildung365.de. Hier muss als Bildungseinrichtung die Hochschule der Medien ausgew\u00e4hlt werden.\nWeitere Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

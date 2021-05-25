@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Anwendung_Filestore_Teilen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anwendung_Filestore_Teilen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Der Webzugang stellt den prim\u00e4ren und vollumfassendsten Zugang dar. Hier\u00fcber k\u00f6nnen Dateien, Ordner und Freigaben verwaltet sowie auf Papierkorb und \u00e4ltere Dateiversionen zugegriffen werden.\nDer Filestore ist zu erreichen unter: https://filestore.hdm-stuttgart.de\n\nDu kannst k\u00f6nnen Dateien mit anderen FileStore-Nutzern oder per E-Mail teilen. Gehe daf\u00fcr auf das Teilen-Symbol () rechts neben der Datei/dem Ordner. Im Menu auf der rechten Seite kannst du nun ausw\u00e4hlen, ob du die Datei/den Ordner mit anderen FileStore-Nutzern/Gruppen oder als Link teilen.\nIn der Eingabemaske kannst du hierbei nur jeweils einen Namen (Account oder Gruppe) eintragen. Wenn du mehrere Eintr\u00e4ge vornehmen m\u00f6chten, gebe diese einen nach dem anderen ein (eine Eingabe einer Liste ist nicht m\u00f6glich).\n\nDu kannst nur Dateien/Ordner teilen oder solche, die f\u00fcr dich zum Teilen freigegeben wurden."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

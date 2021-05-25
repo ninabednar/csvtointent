@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Nutzung_bwLehrpool",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Nutzung_bwLehrpool",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "1. Auswahl Start bwLehrpool oder lokale Installation\nBeim Start eines PCs in den PC-Pools erscheint f\u00fcr mehrere Sekunden ein Auswahlmen\u00fc. Hier kann der Benutzer entscheiden, ob er bwLehrpool oder die lokale Installation starten m\u00f6chte.\nNach Auswahl von bwLehrpool erscheint eine Anmeldemaske.  Hier m\u00fcssen Sie sich mit dem bekannten HdM-Accounts einloggen.\n2. VMChooser \u2013 Auswahl der zu startenden bwLehrpool-Veranstaltung\nNach dem Einloggen erscheint der sogenannte \u201eVMChooser\u201c. Eine Oberfl\u00e4che in der der Benutzer die zu diesem Zeitpunkt in diesem Raum verf\u00fcgbaren Images ausw\u00e4hlen und starten kann.\nAus Datenschutzgr\u00fcnden ist mittels Setzen eines H\u00e4kchens die Teilnahme am Pool-Video-Switch vom Benutzer zu best\u00e4tigen. Er kann dies aber ebenso nach Start des Images \u00fcber ein ausklappbares Men\u00fc am oberen Bildschirmrand nachholen. Weitere Informationen findest Du unter https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

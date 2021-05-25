@@ -1,5 +1,5 @@
 {
-  "id": "0ff72495-2070-446e-bbcc-9337c1d872de",
+  "id": "",
   "name": "Kyocera_M2635_Bedienung",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Hier findest Du eine Anleitung f\u00fcr die Einrichtung des Kyocera ECOSYS M2635dn: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/KyoceraM2635.pdf "
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

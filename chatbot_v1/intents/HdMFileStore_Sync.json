@@ -1,5 +1,5 @@
 {
-  "id": "c4e6ad43-733e-4cc0-ac90-2d3c132d3a7f",
+  "id": "",
   "name": "HdMFileStore_Sync",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Hier findest Du eine Anleitung f\u00fcr die Synchronisierung des HdMFileStore lokal auf Deinem Computer: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Filestore_SyncClient.pdf "
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

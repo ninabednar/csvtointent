@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Scan_Mailversand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Scan_Mailversand",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hier findest Du eine Anleitung um einen Scan als Mail zu versenden: https://www.hdm-stuttgart.de/intranet/iformulare/formular20160908163821/Anleitung_Mail.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

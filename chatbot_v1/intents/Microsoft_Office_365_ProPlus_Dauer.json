@@ -1,5 +1,5 @@
 {
-  "id": "67987c83-7e6e-42d9-bb48-b099539288f8",
+  "id": "",
   "name": "Microsoft_Office_365_ProPlus_Dauer",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Der Nutzungszeitraum für das Angebot beträgt 1 Jahr, kann danach aber über https://bildung365.de erneut erworben und damit verlängert werden."
-          ],
-          "condition": ""
+            "Der Nutzungszeitraum f\u00fcr das Angebot betr\u00e4gt 1 Jahr, kann danach aber \u00fcber https://bildung365.de erneut erworben und damit verl\u00e4ngert werden."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

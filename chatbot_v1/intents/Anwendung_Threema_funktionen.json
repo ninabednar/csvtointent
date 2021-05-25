@@ -1,5 +1,5 @@
 {
-  "id": "0fc77400-fd73-4a52-b7ef-28678a58206c",
+  "id": "",
   "name": "Anwendung_Threema_funktionen",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Threema bietet dir folgende Grundfunktionen f\u00fcr Gruppen- und Einzelchats:\n\n- Sende Text- und Sprachnachrichten\n- T\u00e4tige Sprachanrufe\n- Teile Bilder, Videos, animierte GIFs und Standorte\n- Sende Dateien beliebigen Formats\n-Verwende Threema auf dem Desktop"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Sync-Client_Install_Config",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sync-Client_Install_Config",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Informationen zur Installation und Konfiguration von filestore (ownCloud) - Sync Client findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_SyncClient.pdf  "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

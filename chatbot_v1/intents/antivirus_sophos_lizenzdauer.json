@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "antivirus_sophos_lizenzdauer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "antivirus_sophos_lizenzdauer",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Die \u201eStudentHome-Version\u201c ist von der Laufzeit aus lizenztechnischen Gr\u00fcnden auf ein Semester beschr\u00e4nkt. Jeweils zum Start des neuen Semesters wird eine neue Version zur Verf\u00fcgung gestellt."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

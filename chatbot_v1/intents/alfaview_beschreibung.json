@@ -1,5 +1,5 @@
 {
-  "id": "f19872fa-faa2-4a3f-a262-690be96f61f0",
+  "id": "",
   "name": "alfaview_beschreibung",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "„alfaview“ ist ein Videokonferenzprogramm. "
-          ],
-          "condition": ""
+            "\u201ealfaview\u201c ist ein Videokonferenzprogramm. "
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

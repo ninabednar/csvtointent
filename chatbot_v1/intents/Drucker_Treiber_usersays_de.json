@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "data": [
       {
         "text": "Welchen Druckertreiber brauche ich zum Drucken?",
@@ -12,9 +13,23 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Wo finde ich die Druckertreiber für die HdM?",
+        "text": "Wo finde ich die Druckertreiber f\u00fcr die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welchen Drucker-Treiber brauch ich f\u00fcr den Gro\u00dfkopierer?",
         "userDefined": false
       }
     ],

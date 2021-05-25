@@ -1,0 +1,28 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie verbinde ich mich mit dem Netzwerk der HdM aus dem Home Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie verbinde ich mich mit OpenVPN?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

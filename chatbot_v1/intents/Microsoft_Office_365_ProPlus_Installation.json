@@ -1,5 +1,5 @@
 {
-  "id": "04850ac4-e82f-4da5-9277-395175f8fd10",
+  "id": "",
   "name": "Microsoft_Office_365_ProPlus_Installation",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Es sind 5 Installationen pro Nutzer möglich, auf mobilen Geräten (Smartphone, Tablet, ...) sind 5 zusätzliche Installationen möglich."
-          ],
-          "condition": ""
+            "Es sind 5 Installationen pro Nutzer m\u00f6glich, auf mobilen Ger\u00e4ten (Smartphone, Tablet, ...) sind 5 zus\u00e4tzliche Installationen m\u00f6glich."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

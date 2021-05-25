@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "SB_funktionen_nutzung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SB_funktionen_nutzung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Um die SB-Funktionen nutzen zu k\u00f6nnen ben\u00f6tigst du lediglich deinen HdM-Account (K\u00fcrzel und Passwort) zur Authentifizierung sowie einen Rechner mit Internetanschluss."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

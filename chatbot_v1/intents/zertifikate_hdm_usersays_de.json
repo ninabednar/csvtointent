@@ -1,0 +1,28 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Zertifikate kommen an der HdM zum Einsatz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Zertifikate besitzt die HdM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

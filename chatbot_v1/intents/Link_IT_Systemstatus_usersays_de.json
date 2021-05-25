@@ -1,8 +1,9 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Was finde ich unter dem Link “Aktueller IT-Systemstatus”?",
+        "text": "Was finde ich unter dem Link \u201cAktueller IT-Systemstatus\u201d?",
         "userDefined": false
       }
     ],
@@ -12,6 +13,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo finde ich Informationen zum aktuellen IT-Systemstatus?",
@@ -24,6 +26,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo gibt es Infos zum aktuellen Systemstatus?",
@@ -36,9 +39,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Was finde ich unter dem Link “Informationszentrum IT”?",
+        "text": "Was finde ich unter dem Link \u201cInformationszentrum IT\u201d?",
         "userDefined": false
       }
     ],

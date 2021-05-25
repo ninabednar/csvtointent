@@ -1,5 +1,5 @@
 {
-  "id": "44038543-66ab-41e8-87b6-092f4087f96c",
+  "id": "",
   "name": "Microsoft_Office_365_ProPlus_Support",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Die HdM bietet keinen Support dafür an, bei Fragen und Problemen kann der Support von DrVis per Mail erreicht werden: .\nofficesupport@drvis.de"
-          ],
-          "condition": ""
+            "Die HdM bietet keinen Support daf\u00fcr an, bei Fragen und Problemen kann der Support von DrVis per Mail erreicht werden: .\nofficesupport@drvis.de"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

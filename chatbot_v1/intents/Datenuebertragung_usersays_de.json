@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "data": [
       {
         "text": "Wie spiele ich die Daten auf den neuen Computer?",
@@ -12,6 +13,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo muss ich die Daten auf dem neuen Computer abspeichern?",
@@ -24,9 +26,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Was muss ich bei der Datenübertragung beachten?",
+        "text": "Was muss ich bei der Daten\u00fcbertragung beachten?",
         "userDefined": false
       }
     ],
@@ -36,9 +39,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Wieso finde ich die Ordner für die entsprechenden Programme nicht?",
+        "text": "Wieso finde ich die Ordner f\u00fcr die entsprechenden Programme nicht?",
         "userDefined": false
       }
     ],
@@ -48,6 +52,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Warum sind auf dem neuen Computer die Ordner nicht da?",

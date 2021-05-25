@@ -1,0 +1,28 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie installiere ich VPN?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie installiere ich VPN bei einem Mac?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

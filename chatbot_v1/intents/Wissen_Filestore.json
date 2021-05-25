@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Wissen_Filestore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Wissen_Filestore",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Der HdM Filestore ist eine zentrale Datenablage, die du zum Austausch von Dateien kostenfrei verwenden kannst.Auf Basis der Software ownCloud k\u00f6nnen Benutzer via Browser, WebDAV- oder Sync-Client jederzeit und \u00fcberall auf ihre Daten zugreifen. Daneben dient die Software als Portal zu weiteren (S)FTP- und Fileservern im Haus."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,5 +1,5 @@
 {
-  "id": "cdf19169-1c47-4bd9-8ef3-c5011e062663",
+  "id": "",
   "name": "Wissen_bwCloud",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Die bwCloud ist ein IaaS-Angebot und wird betrieben für Forschung und Lehre in Baden-Württemberg. Mit der bwCloud können virtuelle Server oder Maschinen erzeugt, gestartet und betrieben werden. Als Lehrende oder Studierende der HdM Stuttgart ist man berechtigt, dieses Angebot zu nutzen."
-          ],
-          "condition": ""
+            "Die bwCloud ist ein IaaS-Angebot und wird betrieben f\u00fcr Forschung und Lehre in Baden-W\u00fcrttemberg. Mit der bwCloud k\u00f6nnen virtuelle Server oder Maschinen erzeugt, gestartet und betrieben werden. Als Lehrende oder Studierende der HdM Stuttgart ist man berechtigt, dieses Angebot zu nutzen."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

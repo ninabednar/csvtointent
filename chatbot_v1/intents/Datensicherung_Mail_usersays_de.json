@@ -1,8 +1,9 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Wie übertrage ich meine Maildaten und -einstellungen?",
+        "text": "Wie \u00fcbertrage ich meine Maildaten und -einstellungen?",
         "userDefined": false
       }
     ],
@@ -12,9 +13,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Welche Ordner muss ich sichern für meine Maildaten und Maileinstellungen?",
+        "text": "Welche Ordner muss ich sichern f\u00fcr meine Maildaten und Maileinstellungen?",
         "userDefined": false
       }
     ],
@@ -24,6 +26,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo finde ich die Ordner mit meinen Maildaten und -einstellungen?",
@@ -36,6 +39,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Welchen der Ordner muss ich sichern?",
@@ -48,6 +52,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wie mache ich das Datum sichtbar?",
@@ -60,9 +65,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Wie stelle ich fest, ob ich “Lokale Ordner” im Thunderbird verwende?",
+        "text": "Wie stelle ich fest, ob ich \u201cLokale Ordner\u201d im Thunderbird verwende?",
         "userDefined": false
       }
     ],

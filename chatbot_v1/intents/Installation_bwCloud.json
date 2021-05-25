@@ -1,5 +1,5 @@
 {
-  "id": "c7b6f343-52f5-4fd0-856f-dc5de5696791",
+  "id": "",
   "name": "Installation_bwCloud",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Um die bwCloud nutzen zu k\u00f6nnen, musst Du dich beim bwIDM (F\u00f6deratives Identit\u00e4tsmanagement der baden-w\u00fcrttembergischen Hochschulen) registrieren. Weitere Vorbereitungen findest Du unter: https://www.bw-cloud.org/de/erste_schritte"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

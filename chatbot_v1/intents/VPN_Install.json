@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Install",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Install",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hier hast du den Link zur Installation f\u00fcr Open VPN https://www.hdm-stuttgart.de/intranet/services/iz-it/openvpn/dl/openvpn-hdm-vpn-UDP4-1194-install-2.4.7-I603.exe "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

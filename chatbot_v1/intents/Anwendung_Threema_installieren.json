@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Anwendung_Threema_installieren",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anwendung_Threema_installieren",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Downloaden und installiere die App \u201eThreema Work\u201c aus dem App Store ihres Smartphones/Tablet. Die App ist sowohl f\u00fcr iOS als auch f\u00fcr Android verf\u00fcgbar. Bitte nur auf EINEM Ger\u00e4t installieren. WICHTIG: NICHT die kostenpflichtige Variante f\u00fcr Private Anwender"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

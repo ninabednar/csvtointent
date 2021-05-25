@@ -1,5 +1,5 @@
 {
-  "id": "e9ab4681-7cc1-41d0-86e2-ef8b14679701",
+  "id": "",
   "name": "Kyocera_M5526_Bedienung",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Hier findest Du eine Anleitung f\u00fcr die Einrichtung des Kyocera ECOSYS M5526cdn: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/KyoceraM5526.pdf "
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "id": "7895f73e-ded7-4337-85da-b2608f97f591",
+  "id": "",
   "name": "Grundeinrichtung_Thunderbird",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Die Einrichtung von Thunderbird mit Informationen zur Einrichtung des HdM-Adressbuches und des Kalenders wird in dieser Anleitung beschrieben: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Thunderbird_Grundeinrichtung.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

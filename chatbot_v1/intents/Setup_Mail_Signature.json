@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Setup_Mail_Signature",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Setup_Mail_Signature",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "F\u00fcr Details zur Einrichtung einer Signatur bei HdM OX findest Du hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdM-OX_Signatur.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "SB_funktionen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SB_funktionen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "In den SB-Funktionen kannst du zum Beispiel deine pers\u00f6nlichen Daten \u00e4ndern, dich zu Pr\u00fcfungen an und abmelden, deine Noten einsehen und einiges mehr. \nDen gesamten Funktionsumfang findest du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb/hinweise"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,5 +1,5 @@
 {
-  "id": "97b99999-d2f1-4ff3-b71f-1ba01593fd02",
+  "id": "",
   "name": "Anwendung_Threema_settings",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "In den Einstellungen von Threema Work lassen sich eine vielzahl von Einstellungen der App ver\u00e4ndern.\nDazu geh\u00f6ren unteranderem Privatssph\u00e4re, Sicherheit, Erscheinungsbild oder aber auch die Benachrichtigungen"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

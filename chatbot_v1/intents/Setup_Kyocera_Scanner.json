@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Setup_Kyocera_Scanner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Setup_Kyocera_Scanner",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "F\u00fcr Details zur Einrichtung eines Kyocera Scanners gibts es hier eine Anleitung:  https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/KyoceraScanner_Einrichtung.pdf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

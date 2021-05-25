@@ -1,8 +1,22 @@
 [
   {
+    "id": "",
     "data": [
       {
         "text": "Was ist alfaview?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "",
         "userDefined": false
       }
     ],

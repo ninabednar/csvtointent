@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Config_MAC_signin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Config_MAC_signin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Um dich anzumelden, musst du zun\u00e4chst Tunnelblick \u00f6ffnen und die Konfigurationspakete installieren. Danach kannst du dich dort mit deinem HdM-Nutzernamen und Passwort anmelden."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

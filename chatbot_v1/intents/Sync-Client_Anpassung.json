@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Sync-Client_Anpassung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sync-Client_Anpassung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hier findest Du eine Anleitung f\u00fcr eine nachtr\u00e4gliche Anpasung der Sync Client Konfiguration: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_SyncClient.pdf "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "eduroam_nutzung_wo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "eduroam_nutzung_wo",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Der Zugang funktioniert an Standorten, die im eduroam-Verbund integriert sind. Dabei muss sowohl die eigene als auch die zu besuchende Einrichtung teilnehmen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,5 +1,5 @@
 {
-  "id": "d8a9b69c-98f3-4dc2-9bf3-430ec611c09f",
+  "id": "",
   "name": "CPULast_Thunderbird",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "F\u00fcr die Behebung dieses Problems kann Thunderbird entsprechend umgestellt werden. F\u00fcr die einzelnen Schritte gibt es hier eine Anleitung: \nhttps://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Thunderbird_HoheCPULast.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

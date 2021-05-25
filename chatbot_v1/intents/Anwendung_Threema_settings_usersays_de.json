@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "data": [
       {
         "text": "Threema Einstellungen",
@@ -12,6 +13,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Adressbuch",
@@ -24,6 +26,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "E-Mail",
@@ -36,6 +39,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Handynummer",
@@ -48,6 +52,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Kontakte",
@@ -60,9 +65,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Privatsphäre",
+        "text": "Privatsph\u00e4re",
         "userDefined": false
       }
     ],
@@ -72,6 +78,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Arbeitszeiten",

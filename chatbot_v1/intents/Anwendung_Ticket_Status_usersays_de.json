@@ -1,8 +1,9 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Wie kann ich den Status meines Tickets überprüfen?",
+        "text": "Wie kann ich den Status meines Tickets \u00fcberpr\u00fcfen?",
         "userDefined": false
       }
     ],
@@ -12,9 +13,36 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo kann ich den Stand von meinem Ticket anschauen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo kann ich den Stand meines Tickets einsehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo sehe ich ob mein Ticket bearbeitet wird?",
         "userDefined": false
       }
     ],

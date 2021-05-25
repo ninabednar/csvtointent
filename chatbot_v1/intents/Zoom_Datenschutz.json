@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Zoom_Datenschutz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Zoom_Datenschutz",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Die Datenschutzerkl\u00e4rung von Zoom findest du hier: \nhttps://www.hdm-stuttgart.de/studierende/abteilungen/it/datenschutz_zoom"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

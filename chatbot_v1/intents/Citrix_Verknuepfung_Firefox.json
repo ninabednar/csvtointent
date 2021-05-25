@@ -1,5 +1,5 @@
 {
-  "id": "0b868878-f068-40be-b504-48f2641b3595",
+  "id": "",
   "name": "Citrix_Verknuepfung_Firefox",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Um eine Citrix-Verkn\u00fcpfung auf dem Desktop anzulegen musst Du mit der rechten Maustaste ins Leere auf den Bildschirm klicken. W\u00e4hle \"Neu\" > \"Verkn\u00fcpfung\" aus. Daraufhin \u00f6ffnet sich ein Fenster mit dem Feld \"Geben Sie den Speicherort des Elements ein:\". Dort muss die Adresse http://10.10.36.140/Citrix/XenApp eingetragen werden, mit \"Weiter\" wird die Eingabe best\u00e4tigt und die Verkn\u00fcpfung kann benannt werden (zb. Citrix). Mit \"Fertig stellen\" wird auf dem Desktop eine Verkn\u00fcpfung angelegt."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

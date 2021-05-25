@@ -1,5 +1,5 @@
 {
-  "id": "04121728-77af-4477-8e50-f48b4b7899b0",
+  "id": "",
   "name": "IT_Problem_Telefonnummer",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
             "Der Helpdesk kann unter der Nummer 1920 im Telefonnetz der HdM erreicht werden."
-          ],
-          "condition": ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

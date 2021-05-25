@@ -1,5 +1,5 @@
 {
-  "id": "29e30ee5-e550-416d-bcd6-dac16dd57bae",
+  "id": "",
   "name": "Datensicherung_welche_Daten",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Informationen zur Datensicherung, welche Daten gesichert werden müssen und wo diese zu finden sind gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf"
-          ],
-          "condition": ""
+            "Informationen zur Datensicherung, welche Daten gesichert werden m\u00fcssen und wo diese zu finden sind gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

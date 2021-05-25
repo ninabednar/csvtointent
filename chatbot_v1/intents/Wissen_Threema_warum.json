@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Wissen_Threema_warum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Wissen_Threema_warum",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Threema.Work ist sicher und datenschutzkonform und dadurch f\u00fcr den professionellen Gebrauch in\nder internen Unternehmenskommunikation sehr geeignet."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

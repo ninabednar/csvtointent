@@ -1,8 +1,48 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Wir richte ich den VLC Player ein?",
+        "text": "Wie richte ich den VLC Player ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie kann man den VLC Player einrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie geht die Einrichtung des VLC Player?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie funktioniert die Einrichtung des VLC Player?",
         "userDefined": false
       }
     ],

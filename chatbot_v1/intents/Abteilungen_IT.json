@@ -1,5 +1,5 @@
 {
-  "id": "3377e561-d69a-410e-9576-5db600430bda",
+  "id": "",
   "name": "Abteilungen_IT",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "Du findest unter https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen alle Ansprechpartner der Hochschule."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "id": "68f02a19-20f1-4505-9539-28ca680469ff",
+  "id": "",
   "name": "Adressbuch_Thunderbird",
   "auto": true,
   "contexts": [],
@@ -11,13 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
-          "condition": ""
+          "speech": [
+            "F\u00fcr das Einrichten des HdM-Adressbuches gibt es hier eine Anleitung, die die einzelnen Schritte erkl\u00e4rt: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/Thunderbird_HdMAdressbuch.pdf"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

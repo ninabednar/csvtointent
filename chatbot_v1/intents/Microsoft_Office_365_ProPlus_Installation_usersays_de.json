@@ -1,8 +1,35 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Wie oft darf ich Microsoft Office 365 ProPlus auf unterschiedlichen Geräten installieren?",
+        "text": "Wie oft darf ich Microsoft Office 365 ProPlus auf unterschiedlichen Ger\u00e4ten installieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Unterschiedliche Ger\u00e4te zur Verwendung von Microsoft Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Mehrere Ger\u00e4te zur Verwendung von Office?",
         "userDefined": false
       }
     ],

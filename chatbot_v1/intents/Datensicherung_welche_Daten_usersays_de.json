@@ -1,8 +1,9 @@
 [
   {
+    "id": "",
     "data": [
       {
-        "text": "Welche Daten muss ich übertragen?\n",
+        "text": "Welche Daten muss ich \u00fcbertragen?\n",
         "userDefined": false
       }
     ],
@@ -12,6 +13,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Welche Daten muss ich sichern?",
@@ -24,9 +26,10 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
-        "text": "Welche Daten müssen gesichert werden?",
+        "text": "Welche Daten m\u00fcssen gesichert werden?",
         "userDefined": false
       }
     ],
@@ -36,6 +39,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wo liegen meine Daten?",

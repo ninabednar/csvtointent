@@ -1,5 +1,5 @@
 {
-  "id": "60d5b8b1-7f6f-4500-8a81-1a8909105327",
+  "id": "",
   "name": "Link_IT_Systemstatus",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Unter https://status.hdm-stuttgart.de sind aktuelle Informationen aus dem Bereich des Informationszentrums-IT. Wenn bestimmte Funktionen nicht nutzbar sind, kann das Problem bereits hier aufgeführt und bei uns bekannt sein."
-          ],
-          "condition": ""
+            "Unter https://status.hdm-stuttgart.de sind aktuelle Informationen aus dem Bereich des Informationszentrums-IT. Wenn bestimmte Funktionen nicht nutzbar sind, kann das Problem bereits hier aufgef\u00fchrt und bekannt sein."
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

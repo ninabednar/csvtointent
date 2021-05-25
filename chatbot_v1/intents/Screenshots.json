@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Screenshots",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Screenshots",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Mit der Tastenkombination \"Alt\" (links der Leertaste) und \"Druck\" (hei\u00dft auf manchen Tastaturen auch \"Print\") kann ein Screenshot gemacht werden.\nGespeichert werden kann ein Screenshot zum Beispiel in einem neuen Word-Dokument mit der Tastenkombination \"STRG\" und \"V\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

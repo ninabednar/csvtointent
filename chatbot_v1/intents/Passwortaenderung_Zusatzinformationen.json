@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Passwortaenderung_Zusatzinformationen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Passwortaenderung_Zusatzinformationen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Nach einer Passwort\u00e4nderung funktioniert das alte, in manchen Programmen gespeicherte, Passwort nicht mehr. Die Anmeldung muss mit dem neuen Passwort erfolgen."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

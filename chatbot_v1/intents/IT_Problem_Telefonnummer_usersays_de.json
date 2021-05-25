@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "data": [
       {
         "text": "Unter welcher Telefonnummer erreiche ich den Helpdesk?",
@@ -12,6 +13,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wie erreiche ich den IT-Support?",
@@ -24,6 +26,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Unter welcher Nummer erreiche ich den Support?",
@@ -36,6 +39,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Wie kann ich den Helpdesk erreichen?",
@@ -48,6 +52,7 @@
     "updated": 0
   },
   {
+    "id": "",
     "data": [
       {
         "text": "Was kann ich tun, wenn ich keinen Netzwerkzugriff habe?",

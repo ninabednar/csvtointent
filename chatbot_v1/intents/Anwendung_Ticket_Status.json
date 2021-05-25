@@ -1,5 +1,5 @@
 {
-  "id": "fffb0fe6-a573-4d55-a817-1f49b48bc447",
+  "id": "",
   "name": "Anwendung_Ticket_Status",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
             "Leider kann der aktuelle Status eines Tickets nicht abgerufen werden."
-          ],
-          "condition": ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

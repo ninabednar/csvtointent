@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "Start_bwLehrpool",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Start_bwLehrpool",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Informationen zum Zugang, der Installation und den Systemvorraussetzungen f\u00fcr bwLehrpool findest Du unter https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

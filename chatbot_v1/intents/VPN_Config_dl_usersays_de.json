@@ -1,0 +1,28 @@
+[
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo muss ich den Download des Konfigurationspaketes speichern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "In welchen Ordner kommt das Konfigurationspaket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

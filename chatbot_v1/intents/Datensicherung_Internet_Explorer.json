@@ -1,5 +1,5 @@
 {
-  "id": "f9712022-035e-460e-a357-7f139e76736e",
+  "id": "",
   "name": "Datensicherung_Internet_Explorer",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
-            "Zur Sicherung und Übertragung von Daten des Internet Explorers gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 14 im Abschnitt \"Daten anderer Browser sichern, Internet Explorer\")"
-          ],
-          "condition": ""
+            "Zur Sicherung und \u00dcbertragung von Daten des Internet Explorers gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 14 im Abschnitt \"Daten anderer Browser sichern, Internet Explorer\")"
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

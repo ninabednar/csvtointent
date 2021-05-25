@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "name": "VPN_Home_Office_signout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "VPN_Home_Office_signout",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Zum Beenden der Verbindung musst du dich einfach nur bei deinem dienstlichen Desktop abmelden. Fahre deinen dienstlichen Rechner NIEMALS herunter!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

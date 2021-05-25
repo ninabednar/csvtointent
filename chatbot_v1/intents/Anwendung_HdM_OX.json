@@ -1,5 +1,5 @@
 {
-  "id": "aa446a30-cc9b-475a-a416-fdb73c467760",
+  "id": "",
   "name": "Anwendung_HdM_OX",
   "auto": true,
   "contexts": [],
@@ -11,16 +11,14 @@
       "parameters": [],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "de",
           "speech": [
             "Bei HdM OX handelt es sich um eine Alternative zu Mozilla Thunderbird, mit der Kalender und Mails aufrufbar sind unter https://ox.hdm-stuttgart.de. Die Anmeldedaten entsprechen dem Benutzernamen und Passwort das zur Anmeldung am Computer verwendet wird."
-          ],
-          "condition": ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
