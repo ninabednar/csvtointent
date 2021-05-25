@@ -1,0 +1,62 @@
+[
+  {
+    "data": [
+      {
+        "text": "Wie spiele ich die Daten auf den neuen Computer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wo muss ich die Daten auf dem neuen Computer abspeichern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Was muss ich bei der Datenübertragung beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wieso finde ich die Ordner für die entsprechenden Programme nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Warum sind auf dem neuen Computer die Ordner nicht da?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

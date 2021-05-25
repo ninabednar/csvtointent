@@ -1,9 +1,8 @@
 [
   {
-    "id": "",
     "data": [
       {
-        "text": "Was ist die bwCloud?",
+        "text": "Welche Leistungen sind in dem Angebot für Microsoft Office 365 ProPlus enthalten?\n",
         "userDefined": false
       }
     ],
@@ -13,10 +12,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Was kann die bwCloud?",
+        "text": "Welche Leistungen sind bei Office 365 ProPlus enthalten?",
         "userDefined": false
       }
     ],
@@ -26,10 +24,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Wie viel kostet das Angebot Office 365 ProPlus?",
         "userDefined": false
       }
     ],

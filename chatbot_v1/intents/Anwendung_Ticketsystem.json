@@ -1,0 +1,35 @@
+{
+  "id": "07da4718-ea19-43b0-8e7f-898c926fa203",
+  "name": "Anwendung_Ticketsystem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anwendung_Ticketsystem",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Unter https://otrs.hdm-stuttgart.de/otrs/customer.pl kann ein Ticket erstellt werden. Das Ticket sollte einen aussagekräftigen Betreff erhalten. Im Text kann dann ausführlich der Fehler beschrieben werden, falls es eine Fehlernummer gibt, kann ein Screenshot angehängt werden.\nBeschreibung zum Vorgehen auch unter https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf einsehbar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2db700ff-cbe6-4040-b900-523c9815d254",
+  "name": "Einrichtung_CDBurnerXP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Einrichtung_CDBurnerXP",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Für die Details zur Einrichtung des CDBurnerXP gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "data": [
+      {
+        "text": "Wie kann ich den Status meines Tickets überprüfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wo kann ich den Stand von meinem Ticket anschauen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

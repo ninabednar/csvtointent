@@ -1,9 +1,21 @@
 import csv
 import json
+import os
+
+#TODO: delete empty files
 
 name_list = []
+umlaute = { "Ä":"Ae", 
+            "ä":"ae",
+            "Ö":"Oe",
+            "ö":"oe",
+            "Ü":"Ue",
+            "ü":"ue",
+            "ß":"ss",
+        }
 
-with open ("Chatbot IT-Anwenderprobleme - Sammlung IT-Anwenderprobleme.csv") as csv_file:
+
+with open ("Chatbot IT-Anwenderprobleme - dialogflow.csv") as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=",")
     for row in csv_reader:
         name_list.append(row)
@@ -11,9 +23,16 @@ with open ("Chatbot IT-Anwenderprobleme - Sammlung IT-Anwenderprobleme.csv") as 
 
 print(name_list)
 
+#Wenn der Ordner "data" noch nicht existiert, wird er angelegt
+if not os.path.exists('./data/'):
+    os.makedirs('./data/')
+
 for entry in name_list:
     intentname = ""
     intentname = entry['Name Intent / Problem']
+    for umlaut in umlaute:
+        intentname = intentname.replace(umlaut, umlaute[umlaut])
+        
     
     grundlegend = ""
     grundlegend = entry['Grundlegende Fragestellungen']

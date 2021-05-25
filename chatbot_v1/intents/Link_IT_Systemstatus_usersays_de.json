@@ -1,9 +1,8 @@
 [
   {
-    "id": "",
     "data": [
       {
-        "text": "Was ist die bwCloud?",
+        "text": "Was finde ich unter dem Link “Aktueller IT-Systemstatus”?",
         "userDefined": false
       }
     ],
@@ -13,10 +12,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Was kann die bwCloud?",
+        "text": "Wo finde ich Informationen zum aktuellen IT-Systemstatus?",
         "userDefined": false
       }
     ],
@@ -26,10 +24,21 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Wo gibt es Infos zum aktuellen Systemstatus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Was finde ich unter dem Link “Informationszentrum IT”?",
         "userDefined": false
       }
     ],

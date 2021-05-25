@@ -1,0 +1,26 @@
+[
+  {
+    "data": [
+      {
+        "text": "Was ist Citrix?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Für was ist eine Citrix-Verknüpfung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

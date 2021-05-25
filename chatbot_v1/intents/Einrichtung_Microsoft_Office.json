@@ -1,0 +1,35 @@
+{
+  "id": "07767c19-4df4-4f32-b3a5-45c77ecff540",
+  "name": "Einrichtung_Microsoft_Office",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Einrichtung_Microsoft_Office",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Für die Details zur Einrichtung von Microsoft Office gibt es hier mehr Informationen: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computer_Erstanmeldung.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

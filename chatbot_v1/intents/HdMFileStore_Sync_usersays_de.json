@@ -1,0 +1,62 @@
+[
+  {
+    "data": [
+      {
+        "text": "Wie synchronisiere ich Inhalte des HdMFileStore lokal auf einen Computer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wie synchronisiere ich Inhalte des HdMFileStore lokal auf einen Ordner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wie synchronisiere ich Inhalte des HdMFileStore lokal auf eine Festplatte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wie kann ich Synchronisationsprotokoll anzeigen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wo finde ich das Synchronisationsprotokoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

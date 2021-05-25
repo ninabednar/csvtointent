@@ -1,6 +1,5 @@
 [
   {
-    "id": "",
     "data": [
       {
         "text": "Was ist die bwCloud?",
@@ -13,7 +12,6 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
         "text": "Was kann die bwCloud?",
@@ -26,10 +24,21 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Woher bekomme ich eine virtuelle Maschine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Was brauche ich zum Cloud Computing?",
         "userDefined": false
       }
     ],

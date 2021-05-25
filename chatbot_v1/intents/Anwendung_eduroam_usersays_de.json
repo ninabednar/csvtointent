@@ -1,0 +1,26 @@
+[
+  {
+    "data": [
+      {
+        "text": "Wer kann das eduroam nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wer kann sich mit dem WLAN verbinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "832f3ca2-019d-4f97-be54-2a5550984238",
+  "name": "Microsoft_Office_365_ProPlus_Voraussetzungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Microsoft_Office_365_ProPlus_Voraussetzungen",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Das Office-Paket kann von Studierenden und Mitarbeiter*innen der HdM genutz werden. Die Windows 10 Education Lizenz ist nur für Studierende verfügbar. Unterstützt werden unterschiedliche Endgeräte. Genauere Informationen zu den Systemvorraussetzungen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

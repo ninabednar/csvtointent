@@ -1,0 +1,35 @@
+{
+  "id": "8d0ba9df-17e6-4784-991c-9922b3a58df6",
+  "name": "Datensicherung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Datensicherung",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Die Datensicherung kann mithilfe eines USB-Sticks erfolgen, der in der Abteilung Infrastruktur in der Materialausgabe in Raum 112 bei Claudia Czerny abgehlt werden kann.\nZum Thema Datensicherung gibt es hier eine ausführliche Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf. Hier wird beschrieben welche Daten gesichert werden müssen, wo diese zu finden sind und wie dabei vorgegangen werden muss.\n"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

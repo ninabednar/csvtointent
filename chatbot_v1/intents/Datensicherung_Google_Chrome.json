@@ -1,0 +1,35 @@
+{
+  "id": "bacf23b8-7be4-441a-99be-e8f9f07ca798",
+  "name": "Datensicherung_Google_Chrome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Datensicherung_Google_Chrome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Zur Sicherung und Übertragung von Links und Einstellungen für Google Chrome gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 15 im Abschnitt \"Daten anderer Browser sichern, Google Chrome – Links und Einstellungen sichern\")"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

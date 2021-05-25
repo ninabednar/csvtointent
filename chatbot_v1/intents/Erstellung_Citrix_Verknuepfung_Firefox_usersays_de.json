@@ -1,9 +1,8 @@
 [
   {
-    "id": "",
     "data": [
       {
-        "text": "Was ist die bwCloud?",
+        "text": "Wie erstelle ich eine Citrix-Verknüpfung?",
         "userDefined": false
       }
     ],
@@ -13,10 +12,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Was kann die bwCloud?",
+        "text": "Wie verbinde ich Firefox mit IReMo?",
         "userDefined": false
       }
     ],
@@ -26,10 +24,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Wie erstelle ich eine Citrix-Verknüpfung auf dem Desktop?",
         "userDefined": false
       }
     ],

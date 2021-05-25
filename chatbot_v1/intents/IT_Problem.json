@@ -1,0 +1,35 @@
+{
+  "id": "0031691b-3166-47f4-b2f9-5ba0914f9c9f",
+  "name": "IT_Problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IT_Problem",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Das Trouble-Ticket-System der HdM (https://otrs.hdm-stuttgart.de/otrs/customer.pl) ermöglicht es Probleme und Fehler zu melden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

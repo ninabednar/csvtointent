@@ -1,9 +1,8 @@
 [
   {
-    "id": "",
     "data": [
       {
-        "text": "Was ist die bwCloud?",
+        "text": "Was ist HdM OX?",
         "userDefined": false
       }
     ],
@@ -13,10 +12,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Was kann die bwCloud?",
+        "text": "Wie kann ich meine Mails aufrufen?",
         "userDefined": false
       }
     ],
@@ -26,10 +24,21 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Wie verwende ich HdM OX?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Wie melde ich mich bei HdM OX an?",
         "userDefined": false
       }
     ],

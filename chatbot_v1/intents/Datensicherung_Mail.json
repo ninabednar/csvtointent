@@ -1,0 +1,35 @@
+{
+  "id": "a7bcf060-e3f8-4461-92de-524e85ce61ad",
+  "name": "Datensicherung_Mail",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Datensicherung_Mail",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Zur Sicherung und Übertragung von Maildaten und -einstellungen gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/Computerwechsel_Datensicherung.pdf (Seite 4 im Abschnitt \"Maildaten und -einstellungen sichern\")"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

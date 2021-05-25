@@ -1,9 +1,8 @@
 [
   {
-    "id": "",
     "data": [
       {
-        "text": "Was ist die bwCloud?",
+        "text": "Welche Voraussetzungen muss ich erfüllen, um das Microsoft Office 365 ProPlus zu nutzen?",
         "userDefined": false
       }
     ],
@@ -13,10 +12,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Was kann die bwCloud?",
+        "text": "Welche Systemvoraussetzungen müssen erfüllt werden?",
         "userDefined": false
       }
     ],
@@ -26,10 +24,9 @@
     "updated": 0
   },
   {
-    "id": "",
     "data": [
       {
-        "text": "Wof\u00fcr brauche ich die bwCloud?",
+        "text": "Welche OS werden unterstützt?",
         "userDefined": false
       }
     ],

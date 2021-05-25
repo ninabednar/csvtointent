@@ -1,0 +1,35 @@
+{
+  "id": "c3180f2b-0abd-4ca7-8abc-5e6cda881aeb",
+  "name": "Microsoft_Office_365_ProPlus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Microsoft_Office_365_ProPlus",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Dabei handelt es sich um ein Softwarepaket, das alle Office-Programme beinhaltet und es für Studierende ermöglicht eine Windows 10 Education Lizenz (inklusive Medium) kostenlos zu erwerben. Mehr Infos gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/diy/pdf/MicrosoftOffice365.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "6a8e4aa2-b357-46a0-84cc-d49c483b45f0",
+    "data": [
+      {
+        "text": "Moin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3a7708ac-700e-4b5e-9de9-d524e00ae67d",
+    "data": [
+      {
+        "text": "Wie geht\u0027s?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "94b1c479-92c8-4029-b13a-735226265864",
+    "data": [
+      {
+        "text": "Grüzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b763a4b1-9fa0-43ad-bd79-fa7465d85a14",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "576c6f6f-7dfb-4f91-9864-2ed6792818b9",
+    "data": [
+      {
+        "text": "Guten Tag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]
