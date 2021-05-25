@@ -28,6 +28,10 @@ if not os.path.exists('./data/'):
 for entry in name_list:
     intentname = ""
     intentname = entry['Name Intent / Problem']
+    
+    #Entfernen von Spaces
+    intentname = intentname.replace(" ", "")
+    #Entfernen von Umlauten bzw Sonderzeichen
     for umlaut in umlaute:
         intentname = intentname.replace(umlaut, umlaute[umlaut])
         
@@ -114,4 +118,3 @@ for entry in name_list:
     
             json.dump(all_questions_json, jsonf, indent=2)
      
-    #es entstehen zwei leere Dateien. Da diese nicht gebraucht werden, löschen wir sie
