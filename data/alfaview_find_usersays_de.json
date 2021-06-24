@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Wo ist die Installationsdatei f\u00fcr alfaview?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Dateien brauche ich zur Installation f\u00fcr alfaview?",
         "userDefined": false
       }
     ],

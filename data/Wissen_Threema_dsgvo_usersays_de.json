@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Rechtskonformit\u00e4t Threema",
+        "text": "Rechtskonformit\u00e4t bei Threema?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie ist der Datenschutz bei Threema?",
         "userDefined": false
       }
     ],

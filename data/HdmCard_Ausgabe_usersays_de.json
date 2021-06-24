@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wo erhalte ich mein Studententausweis?",
+        "text": "Wo erhalte ich mein Studentenausweis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Ausgabe Studierendenausweis?",
         "userDefined": false
       }
     ],

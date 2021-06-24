@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wer ist mein IT-Beauftragter?",
+        "text": "Wer ist der zust\u00e4ndige IT-Verantwortlicher?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "An wen muss ich mich bei Fragen/Problemen wenden?",
+        "text": "An wen muss ich mich bei Fragen oder Problemen wenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Hilfe bei weiteren Fragen?",
         "userDefined": false
       }
     ],

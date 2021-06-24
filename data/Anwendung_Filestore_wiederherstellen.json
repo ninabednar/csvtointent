@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            "Der Papierkorb ein Sicherheitsfeature dar, um das versehentliche L\u00f6schen von Dateien nicht fatal enden zu lassen. Um Dateien aus dem Papierkorb wiederherzustellen, machen einen Rechtsklick auf die Datei und w\u00e4hle \"Wiederherstellen\". Der Inhalt des Papierkorbes ist ebenfalls nicht dauerhaft!"
+            "Der Papierkorb stellt ein Sicherheitsfeature dar, um das versehentliche L\u00f6schen von Dateien nicht fatal enden zu lassen. Um Dateien aus dem Papierkorb wiederherzustellen, mache einen Rechtsklick auf die Datei und w\u00e4hle \"Wiederherstellen\". Bitte beachte, dass der Inhalt des Papierkorbes nicht dauerhaft gespeichert wird. \\n Anleitungen und weitere Details zum Filestore findest Du hier: https://www.hdm-stuttgart.de/intranet/services/iz-it/datenablage "
           ]
         }
       ],

@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie mache ich ungewollte \u00c4nderungen \nr\u00fcckg\u00e4ngig?",
+        "text": "Wie mache ich ungewollte \u00c4nderungen r\u00fcckg\u00e4ngig?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Vorherige Version wiederherstellen?",
+        "text": "Wie kann ich die vorherige Version in Filestore wiederherstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Versionierung Filestore",
         "userDefined": false
       }
     ],

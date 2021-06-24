@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Pers\u00f6nliche Website erstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welche Benutzer k\u00f6nnen eigene Webseiten erstellen?",
         "userDefined": false
       }
     ],

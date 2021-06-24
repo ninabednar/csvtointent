@@ -50,5 +50,18 @@
     "count": 0,
     "lang": "de",
     "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Windows Explorer \u00f6ffnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
   }
 ]

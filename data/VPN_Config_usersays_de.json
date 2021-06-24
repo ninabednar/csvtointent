@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "M\u00fcssen bestimmte Einstellungen vorgenommen werden?",
+        "text": "M\u00fcssen bestimmte Einstellungen f\u00fcr VPN vorgenommen werden?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Welche einstellungen muss ich vornehmen?",
+        "text": "Welche Einstellungen muss ich f\u00fcr VPN vornehmen?",
         "userDefined": false
       }
     ],
@@ -29,20 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Wie muss ich die VPN konfigurieren",
+        "text": "Wie muss ich die VPN konfigurieren?",
         "userDefined": false
       }
     ],

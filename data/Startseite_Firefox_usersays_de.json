@@ -63,5 +63,31 @@
     "count": 0,
     "lang": "de",
     "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Startseite einstellen Firefox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Firefox Startseite \u00e4ndern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
   }
 ]

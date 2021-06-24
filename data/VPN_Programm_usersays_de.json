@@ -24,5 +24,18 @@
     "count": 0,
     "lang": "de",
     "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Anwendungen ohne VPN?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
   }
 ]

@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            " Mithilfe eines Zertifikats kann sich ein Server, auf dem \nDienste angeboten werden, gegen\u00fcber einem anfragenden \nProgramm (Client) ausweisen, womit der Client sichergehen\n kann, mit dem richtigen Server zu kommunizieren."
+            "Mithilfe eines Zertifikats kann sich ein Server, auf dem Dienste angeboten werden, gegen\u00fcber einem anfragenden Programm (Client) ausweisen, womit der Client sichergehen kann, mit dem richtigen Server zu kommunizieren."
           ]
         }
       ],

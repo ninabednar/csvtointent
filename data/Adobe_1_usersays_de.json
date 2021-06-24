@@ -94,20 +94,7 @@
     "id": "",
     "data": [
       {
-        "text": "Welche Produkte von Adobe umfasst das Angebot?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Welche Produkte von Adobe umfasst das Angebot?",
+        "text": "Welche ProDukte von Adobe umfasst das Angebot?",
         "userDefined": false
       }
     ],
@@ -121,19 +108,6 @@
     "data": [
       {
         "text": "Wo finde ich die kostenfreien Applikationen?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Gibt es alternativen?",
         "userDefined": false
       }
     ],

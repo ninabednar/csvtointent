@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wie kann ich Korrekturen vornehmen?",
+        "text": "Wie kann ich Korrekturen vornehmen? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wo kann ich nachbuchen?",
         "userDefined": false
       }
     ],

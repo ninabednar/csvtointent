@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "SQL Datenbank f\u00fcr pers\u00f6nliche Website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie verbinde ich eine Datenbank mit meiner Website?",
         "userDefined": false
       }
     ],

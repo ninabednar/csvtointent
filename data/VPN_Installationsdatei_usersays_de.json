@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wo finde ich die Installationsdatei?",
+        "text": "Wo finde ich die Installationsdatei f\u00fcr VPN?",
         "userDefined": false
       }
     ],
@@ -16,20 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wo ist die Installtionsdatei?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "",
+        "text": "Wo ist die Installtionsdatei f\u00fcr VPN?",
         "userDefined": false
       }
     ],

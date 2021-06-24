@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie geht die eduroam Installation mit Windows 10? ",
+        "text": "Wie kann ich eduroam f\u00fcr Windows 10 einrichten? ",
         "userDefined": false
       }
     ],
@@ -29,7 +29,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wie nutzt man eduroam mit Windows 10?",
+        "text": "Wie funktioniert die Einrichtung von eduroam f\u00fcr Windows 10? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie geht die Einrichtung f\u00fcr Windows 10 von eduroam?",
         "userDefined": false
       }
     ],

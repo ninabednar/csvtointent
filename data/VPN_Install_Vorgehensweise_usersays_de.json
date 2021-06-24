@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie muss ich bei der Installation vorgehen?",
+        "text": "Wie muss ich bei der Installation von VPN vorgehen?",
         "userDefined": false
       }
     ],
@@ -17,6 +17,19 @@
     "data": [
       {
         "text": "Was muss ich bei der Installation beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie richte ich das VPN ein?",
         "userDefined": false
       }
     ],

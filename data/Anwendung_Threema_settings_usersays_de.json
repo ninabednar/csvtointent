@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Adressbuch",
+        "text": "Wo ist das Threema Adressbuch?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "E-Mail",
+        "text": "Wie stelle ich meine Privatsph\u00e4re in Threema ein?",
         "userDefined": false
       }
     ],
@@ -42,46 +42,7 @@
     "id": "",
     "data": [
       {
-        "text": "Handynummer",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Kontakte",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Privatsph\u00e4re",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Arbeitszeiten",
+        "text": "",
         "userDefined": false
       }
     ],

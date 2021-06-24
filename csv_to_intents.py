@@ -30,7 +30,8 @@ for entry in name_list:
     intentname = entry['Name Intent / Problem']
     
     #Entfernen von Spaces
-    intentname = intentname.replace(" ", "")
+    if intentname != "Default Fallback Intent":
+        intentname = intentname.replace(" ", "")
     #Entfernen von Umlauten bzw Sonderzeichen
     for umlaut in umlaute:
         intentname = intentname.replace(umlaut, umlaute[umlaut])
@@ -96,25 +97,25 @@ for entry in name_list:
     
         except FileNotFoundError:
             continue
+        
+        if intentname != "Default Fallback Intent":
+            with open ("./data/" + intentname + "_usersays_de.json", mode='w') as jsonf:
+                #Grundfrage + Training Phrases
+                all_questions_json = []
+                for entry in all_questions:
+                    questiondict = {
+                    "id": "",
+                    "data": [
+                        {
+                            "text": entry,
+                            "userDefined": False
+                         }
+                    ],
+                    "isTemplate": False,
+                    "count": 0,
+                    "lang": "de",
+                    "updated": 0
+                    }
+                    all_questions_json.append(questiondict)
 
-        with open ("./data/" + intentname + "_usersays_de.json", mode='w') as jsonf:
-            #Grundfrage + Training Phrases
-            all_questions_json = []
-            for entry in all_questions:
-                questiondict = {
-                "id": "",
-                "data": [
-                    {
-                        "text": entry,
-                        "userDefined": False
-                     }
-                ],
-                "isTemplate": False,
-                "count": 0,
-                "lang": "de",
-                "updated": 0
-                }
-                all_questions_json.append(questiondict)
-    
-            json.dump(all_questions_json, jsonf, indent=2)
-     
+                json.dump(all_questions_json, jsonf, indent=2)

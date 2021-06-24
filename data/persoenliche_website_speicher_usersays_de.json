@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Speicher f\u00fcr pers\u00f6nliche Webseiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Maximale Speicherung der Homepage-Daten?",
         "userDefined": false
       }
     ],

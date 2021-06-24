@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "WLAN-Einstellungen",
+        "text": "Welche Voraussetzungen brauche ich f\u00fcr eduroam?",
         "userDefined": false
       }
     ],
@@ -29,20 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "Eduroam-Requirements",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Eduroam-Setup",
+        "text": "Was muss f\u00fcr eduroam installiert sein?",
         "userDefined": false
       }
     ],

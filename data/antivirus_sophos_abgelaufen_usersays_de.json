@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Lizenz abgelaufen",
+        "text": "Was tun wenn Antiviren-Software abgelaufen ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie bekomme ich eine neue Lizenz?",
         "userDefined": false
       }
     ],

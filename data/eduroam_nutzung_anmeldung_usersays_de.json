@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wie verbinde ich mich mit dem WLAN? WLAN-Einstellungen?",
+        "text": "Wie verbinde ich mich mit dem WLAN? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "WLAN-Einstellungen?",
         "userDefined": false
       }
     ],

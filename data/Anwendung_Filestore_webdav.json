@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            "Auf die Daten kann ebenfalls mit jedem beliebigen WebDAV-Client zugegriffen werden. Die WebDAV-URL lautet: https://filestore.hdm-stuttgart.de/remote.php/webdav/ (Bitte diese Adresse bei Bedarf kopieren.)\n\nAnleitung: HdMFileStore als Netzlaufwerk verbinden (PDF-Datei)\nUnter Windows ist darauf zu achten, dass der Dienst WebClient gestartet ist!\n\nPapierkorb, Versionen und Berechtigungen k\u00f6nnen hier\u00fcber nicht verwaltet werden."
+            "Auf die Daten kann mit jedem beliebigen WebDAV-Client zugegriffen werden. Die WebDAV-URL lautet: https://filestore.hdm-stuttgart.de/remote.php/webdav/ \\n Unter Windows ist darauf zu achten, dass der Dienst WebClient gestartet ist! \\n Eine detaillierte Anleitung steht hier zur Verf\u00fcgung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_Netzlaufwerkeinbinden.pdf  \n"
           ]
         }
       ],

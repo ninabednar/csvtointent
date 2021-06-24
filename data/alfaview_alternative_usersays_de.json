@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Gibt es andere Programme?",
+        "text": "Gibt es andere Programme als alfaview?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Welches Programm f\u00fcr Videokonferenzen?",
         "userDefined": false
       }
     ],

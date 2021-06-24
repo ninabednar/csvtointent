@@ -63,5 +63,31 @@
     "count": 0,
     "lang": "de",
     "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie richtet man bei Thunderbird eine Signatur ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Signatur Thunderbird",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
   }
 ]

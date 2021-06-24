@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Nachrichten",
+        "text": "Threema Nachricht schreiben?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "Gruppen",
+        "text": "Threema Gruppenchat?",
         "userDefined": false
       }
     ],
@@ -42,46 +42,7 @@
     "id": "",
     "data": [
       {
-        "text": "Verteilerlisten",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Umfragen",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Archive",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "de",
-    "updated": 0
-  },
-  {
-    "id": "",
-    "data": [
-      {
-        "text": "Threema Web",
+        "text": "",
         "userDefined": false
       }
     ],

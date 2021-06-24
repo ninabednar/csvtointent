@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wie finde ich das WLAN?",
+        "text": "Internetzugang an der Universit\u00e4t?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "WLAN an der Uni?",
         "userDefined": false
       }
     ],

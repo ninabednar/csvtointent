@@ -24,5 +24,70 @@
     "count": 0,
     "lang": "de",
     "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Ich kann in Thunderbird keine Mails mehr l\u00f6schen, was kann ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Warum wird mir in Thunderbird Over Quota angezeigt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Wie leere ich meine Mailbox in Thunderbird?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Meine Mailbox in Thunderbird ist voll und ich kann nichts mehr l\u00f6schen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Thunderbird l\u00f6schen geht nicht mehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
   }
 ]

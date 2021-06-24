@@ -1,12 +1,12 @@
 {
   "id": "",
-  "name": "VPN_Home_Office_sd",
+  "name": "default_welcome",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "VPN_Home_Office_sd",
+      "action": "default_welcome",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            ""
+            "Hallo, ich bin EDVIN, dein Ansprechpartner bei Fragen zur IT an der HdM-  F\u00fcr eine \u00dcbersicht \u00fcber die verschiedenen Themen, schreibe mir einfach \\\"Ich brauche Hilfe\\\".\n\nLeg los und frag mich z.B. \\\"Wie installiere ich VPN bei mir?\\\". Keine Angst, ich ben\u00f6tige keine personenbezogenen Daten von Dir. \\nWie kann ich Dir weiterhelfen?"
           ]
         }
       ],

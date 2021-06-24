@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Was muss ich nach der Anmeldung einrichten?",
+        "text": "Was muss ich nach der Anmeldung am PC einrichten?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Was muss man nach der Anmeldung machen?",
+        "text": "Was muss man nach der ersten Anmeldung am PC machen?",
         "userDefined": false
       }
     ],
@@ -29,7 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "Muss ich nach der ersten Anmeldung etwas tun?",
+        "text": "Muss ich nach der ersten Anmeldung am PC etwas tun?",
         "userDefined": false
       }
     ],
@@ -42,7 +42,33 @@
     "id": "",
     "data": [
       {
-        "text": "Was muss ich nach der ersten Anmeldung beachten?",
+        "text": "Was muss ich nach der ersten Anmeldung am Computer beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Einrichtung PC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Einrichtung Computer",
         "userDefined": false
       }
     ],

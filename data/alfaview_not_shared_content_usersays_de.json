@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "",
+        "text": "Was ist, wenn die Installationsdatei nicht im Ordner \"Shared Content\" ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Installationsdatei von alfaview nicht da?",
         "userDefined": false
       }
     ],

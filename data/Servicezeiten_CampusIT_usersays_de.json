@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie erreiche ich die Campus IT?",
+        "text": "Wann erreiche ich die Campus IT?",
         "userDefined": false
       }
     ],
@@ -17,6 +17,19 @@
     "data": [
       {
         "text": "Wann hat die IT auf dem Campus ge\u00f6ffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Was sind die Betriebszeiten der Campus IT?",
         "userDefined": false
       }
     ],

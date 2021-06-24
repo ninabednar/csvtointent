@@ -3,7 +3,7 @@
     "id": "",
     "data": [
       {
-        "text": "Wie funktioniert der Zugang \u00fcber \nWEBDAV?",
+        "text": "Wie funktioniert der Zugang \u00fcber WEBDAV?",
         "userDefined": false
       }
     ],
@@ -16,7 +16,20 @@
     "id": "",
     "data": [
       {
-        "text": "Wie binde ich Filestore in mein Netzlaufwerk ein?",
+        "text": "Wie binde ich den Filestore in mein Netzlaufwerk ein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "",
+    "data": [
+      {
+        "text": "Zufriff auf Daten \u00fcber WEBDAV?",
         "userDefined": false
       }
     ],

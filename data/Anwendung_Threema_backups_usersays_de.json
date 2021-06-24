@@ -16,7 +16,7 @@
     "id": "",
     "data": [
       {
-        "text": "Safe Passwort",
+        "text": "",
         "userDefined": false
       }
     ],
@@ -29,7 +29,7 @@
     "id": "",
     "data": [
       {
-        "text": "Backup erstellen",
+        "text": "Wie erstelle ich ein Backup?",
         "userDefined": false
       }
     ],
@@ -42,7 +42,7 @@
     "id": "",
     "data": [
       {
-        "text": "Sicherung erstellen",
+        "text": "Wie sichere ich meine Datern? ",
         "userDefined": false
       }
     ],
