@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Downloade und installiere die App \u201eThreema Work\u201c aus dem App Store des Smartphones/Tablets. Die App ist sowohl f\u00fcr iOS als auch f\u00fcr Android verf\u00fcgbar. Bitte nur auf EINEM Ger\u00e4t installieren. \\n  Wichtig: NICHT die kostenpflichtige Variante f\u00fcr private Anwender verwenden. Im Handbuch gibt es weitere Informationen zu Threema: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch "
-          ]
+          "speech": "Downloade und installiere die App \u201eThreema Work\u201c aus dem App Store des Smartphones/Tablets. Die App ist sowohl f\u00fcr iOS als auch f\u00fcr Android verf\u00fcgbar. Bitte nur auf EINEM Ger\u00e4t installieren. \\n  Wichtig: NICHT die kostenpflichtige Variante f\u00fcr private Anwender verwenden. Im Handbuch gibt es weitere Informationen zu Threema: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/ThreemaWork_Handbuch "
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Normalerweise wird Dein Notebook Administratorrechte zur Installation erfragen. Solltest Du keine administrativen Rechte haben, wende dich bitte an den f\u00fcr dich zust\u00e4ndigen IT-Beauftragten. Wer das ist kannst Du hier nachschauen: https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen "
-          ]
+          "speech": "Normalerweise wird Dein Notebook Administratorrechte zur Installation erfragen. Solltest Du keine administrativen Rechte haben, wende dich bitte an den f\u00fcr dich zust\u00e4ndigen IT-Beauftragten. Wer das ist kannst Du hier nachschauen: https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen "
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Datensicherung kann mithilfe eines USB-Sticks erfolgen, der in der Abteilung Infrastruktur in der Materialausgabe in Raum 112 bei Claudia Czerny abgehlt werden kann.\nZum Thema Datensicherung gibt es hier eine ausf\u00fchrliche Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf Hier wird beschrieben welche Daten gesichert werden m\u00fcssen, wo diese zu finden sind und wie dabei vorgegangen werden muss.\n"
-          ]
+          "speech": "Die Datensicherung kann mithilfe eines USB-Sticks erfolgen, der in der Abteilung Infrastruktur in der Materialausgabe in Raum 112 bei Claudia Czerny abgehlt werden kann.\nZum Thema Datensicherung gibt es hier eine ausf\u00fchrliche Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf Hier wird beschrieben welche Daten gesichert werden m\u00fcssen, wo diese zu finden sind und wie dabei vorgegangen werden muss.\n"
         }
       ],
       "defaultResponsePlatforms": {},

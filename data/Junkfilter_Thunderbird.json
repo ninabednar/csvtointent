@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Thunderbird erm\u00f6glicht es einen selbstlernenden Junk-Filter einzusetzen. Wie das geht wird hier genauer beschrieben: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Junkfilter.pdf"
-          ]
+          "speech": "Thunderbird erm\u00f6glicht es einen selbstlernenden Junk-Filter einzusetzen. Wie das geht wird hier genauer beschrieben: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Junkfilter.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

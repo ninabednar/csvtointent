@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Alle technischen Anforderungen findest Du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb/anforderungen"
-          ]
+          "speech": "Alle technischen Anforderungen findest Du unter https://www.hdm-stuttgart.de/intranet/studierende/service/sb/anforderungen"
         }
       ],
       "defaultResponsePlatforms": {},

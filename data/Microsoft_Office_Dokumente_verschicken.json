@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Versendet werden k\u00f6nnen alle Office-Dokumente mit \"x\" am Ende des Dateisuffixes. Mehr Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice_Suffixanzeigen.pdf"
-          ]
+          "speech": "Versendet werden k\u00f6nnen alle Office-Dokumente mit \"x\" am Ende des Dateisuffixes. Mehr Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice_Suffixanzeigen.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

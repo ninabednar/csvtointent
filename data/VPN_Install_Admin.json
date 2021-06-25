@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Solltest Du keine administrativen Rechte haben, wende Dich bitte an den zust\u00e4ndigen IT-Beauftragten. Daf\u00fcr kannst Du hier nachschauen wer das ist: https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen "
-          ]
+          "speech": "Solltest Du keine administrativen Rechte haben, wende Dich bitte an den zust\u00e4ndigen IT-Beauftragten. Daf\u00fcr kannst Du hier nachschauen wer das ist: https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen "
         }
       ],
       "defaultResponsePlatforms": {},

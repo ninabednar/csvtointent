@@ -13,13 +13,13 @@ umlaute = { "Ä":"Ae",
         }
 
 
-with open ("Chatbot IT-Anwenderprobleme - dialogflow.csv") as csv_file:
+with open ("Chatbot IT-Anwenderprobleme - dialogflow.csv", encoding="utf-8") as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=",")
     for row in csv_reader:
         name_list.append(row)
-        print(row['Name Intent / Problem'])
+        #print(row['Name Intent / Problem'])
 
-print(name_list)
+#print(name_list)
 
 #Wenn der Ordner "data" noch nicht existiert, wird er angelegt
 if not os.path.exists('./data/'):
@@ -30,13 +30,14 @@ for entry in name_list:
     intentname = entry['Name Intent / Problem']
     
     #Entfernen von Spaces
-    if intentname != "Default Fallback Intent":
-        intentname = intentname.replace(" ", "")
+    # Bulk Upload via ZIP funktioniert nicht, wenn ein Intentname Leerzeichen enthält
+    #if intentname != "Default Fallback Intent":
+    intentname = intentname.replace(" ", "")
     #Entfernen von Umlauten bzw Sonderzeichen
     for umlaut in umlaute:
         intentname = intentname.replace(umlaut, umlaute[umlaut])
         
-    
+    #Fragestellungen sind zwecks Übersichtlichkeit in zwei Kategorien aufgeteilt, Dialogflow behandelt später alle Fragen gleich    
     grundlegend = ""
     grundlegend = entry['Grundlegende Fragestellungen']
     
@@ -48,9 +49,25 @@ for entry in name_list:
     all_questions.append(grundlegend)
     for question in training:
         all_questions.append(question)
-    
-    speech = []
-    speech.append(entry['Antwort (Textform)'])
+
+    #Antworten, mehrere Antworten sind durch \n\n getrennt
+    response = entry["Antwort (Textform)"]
+    response = response.split("\n\n")
+    print(response)
+
+    # Aufbau von messages
+    '''
+    "messages" : [
+    {
+        "type": 0,
+        "lang" : "de",
+        "speech" : ""
+    }
+    ],
+    '''
+    response_list = []
+    for line in response:
+        response_list.append({"type": 0, "lang": "de", "speech": line })
     
     intentdict = {}
     
@@ -71,13 +88,7 @@ for entry in name_list:
                     'action' : intentname,
                     'affectedContexts' : [],
                     'parameters' : [],
-                    "messages" : [
-                        {
-                            "type": 0,
-                            "lang" : "de",
-                            "speech" : speech
-                        }
-                    ],
+                    "messages" : response_list,
                     "defaultResponsePlatforms": {},
                     "speech": []
                 }
@@ -90,15 +101,14 @@ for entry in name_list:
                   "conditionalResponses": [],
                   "condition": "",
                   "conditionalFollowupEvents": []
-    
-    
                 }
+
                 json.dump(intentdict, jsonf, indent=2)
     
         except FileNotFoundError:
             continue
         
-        if intentname != "Default Fallback Intent":
+        if intentname != "DefaultFallbackIntent":
             with open ("./data/" + intentname + "_usersays_de.json", mode='w') as jsonf:
                 #Grundfrage + Training Phrases
                 all_questions_json = []

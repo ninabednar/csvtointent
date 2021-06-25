@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr das Einrichten des HdM-Adressbuches in Thunderbird gibt es hier eine Anleitung, die die einzelnen Schritte erkl\u00e4rt: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_HdMAdressbuch.pdf"
-          ]
+          "speech": "F\u00fcr das Einrichten des HdM-Adressbuches in Thunderbird gibt es hier eine Anleitung, die die einzelnen Schritte erkl\u00e4rt: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_HdMAdressbuch.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

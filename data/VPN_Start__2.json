@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Es ist zu beachten, dass der erste Start von OpenVPN mit administrativen Rechten geschehen muss."
-          ]
+          "speech": "Es ist zu beachten, dass der erste Start von OpenVPN mit administrativen Rechten geschehen muss."
         }
       ],
       "defaultResponsePlatforms": {},

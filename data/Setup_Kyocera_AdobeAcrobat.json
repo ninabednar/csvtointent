@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "\u00dcber IrfanView kannst Du Einstellungen f\u00fcr Kyocera-Scanner t\u00e4tigen. Hier findest Du eine Anleitung zum Thema: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/KyoceraAcrobatEinstellungen.pdf"
-          ]
+          "speech": "\u00dcber IrfanView kannst Du Einstellungen f\u00fcr Kyocera-Scanner t\u00e4tigen. Hier findest Du eine Anleitung zum Thema: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/KyoceraAcrobatEinstellungen.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Unter der Adresse \"10.10.36.140/Citrix/XenApp\" kann die Anwendung im Browser aufgerufen werden. Weitere Informationen sind hier zu finden: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/IReMo_verbinden.pdf"
-          ]
+          "speech": "Unter der Adresse \"10.10.36.140/Citrix/XenApp\" kann die Anwendung im Browser aufgerufen werden. Weitere Informationen sind hier zu finden: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/IReMo_verbinden.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

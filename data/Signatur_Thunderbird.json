@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Bei Thunderbird k\u00f6nnen Signaturen \u00fcber den Men\u00fcpunkt \"Extras\", \"Konten-Einstellungen\" eingerichtet werden. F\u00fcr Details gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Signatur.pdf"
-          ]
+          "speech": "Bei Thunderbird k\u00f6nnen Signaturen \u00fcber den Men\u00fcpunkt \"Extras\", \"Konten-Einstellungen\" eingerichtet werden. F\u00fcr Details gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Signatur.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

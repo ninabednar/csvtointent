@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Bei Problemen mit Instanzen kannst Du unter https://www.bw-cloud.org/de/faq/instanzen nachsehen. Bei Problemen mit der Software findest Du hier Hilfe: https://www.bw-cloud.org/de/faq/software"
-          ]
+          "speech": "Bei Problemen mit Instanzen kannst Du unter https://www.bw-cloud.org/de/faq/instanzen nachsehen. Bei Problemen mit der Software findest Du hier Hilfe: https://www.bw-cloud.org/de/faq/software"
         }
       ],
       "defaultResponsePlatforms": {},

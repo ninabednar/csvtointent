@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Gekaufte Zertifikate werden von externen Dienstleistern bezogen und werden f\u00fcr gew\u00f6hnlich ohne weiteres Zutun des Anwenders verwendet, da die \u00fcbergeordneten Zertifikate in den jeweiligen Programmen, wie zum Beispiel Internetbrowser oder E-Mail-Programm, bereits integriert sind."
-          ]
+          "speech": "Gekaufte Zertifikate werden von externen Dienstleistern bezogen und werden f\u00fcr gew\u00f6hnlich ohne weiteres Zutun des Anwenders verwendet, da die \u00fcbergeordneten Zertifikate in den jeweiligen Programmen, wie zum Beispiel Internetbrowser oder E-Mail-Programm, bereits integriert sind."
         }
       ],
       "defaultResponsePlatforms": {},

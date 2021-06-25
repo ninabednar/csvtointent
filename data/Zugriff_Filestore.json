@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Unter https://filestore.hdm-stuttgart.de ist der HdM Filestore aufrufbar."
-          ]
+          "speech": "Unter https://filestore.hdm-stuttgart.de ist der HdM Filestore aufrufbar."
         }
       ],
       "defaultResponsePlatforms": {},

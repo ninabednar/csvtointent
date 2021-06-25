@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Anleitung zur Konfiguration von Tunnelblick findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf"
-          ]
+          "speech": "Die Anleitung zur Konfiguration von Tunnelblick findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

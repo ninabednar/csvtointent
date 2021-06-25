@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die SB-Funktionen findest Du unter http://www.hdm-stuttgart.de/sb"
-          ]
+          "speech": "Die SB-Funktionen findest Du unter http://www.hdm-stuttgart.de/sb"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Falls das OpenVPN-Icon nicht neben der Uhr angezeigt wird, muss auf den Pfeil geklickt werden, der nach oben zeigt. Dort ist das Icon zu sehen."
-          ]
+          "speech": "Falls das OpenVPN-Icon nicht neben der Uhr angezeigt wird, muss auf den Pfeil geklickt werden, der nach oben zeigt. Dort ist das Icon zu sehen."
         }
       ],
       "defaultResponsePlatforms": {},

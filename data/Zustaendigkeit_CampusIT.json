@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Alle Verantwortlichkeiten der Campus IT findest Du unter https://www.hdm-stuttgart.de/intranet/services/it/servicekatalog"
-          ]
+          "speech": "Alle Verantwortlichkeiten der Campus IT findest Du unter https://www.hdm-stuttgart.de/intranet/services/it/servicekatalog"
         }
       ],
       "defaultResponsePlatforms": {},

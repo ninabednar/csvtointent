@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Im Verzeichnis \\\\fs1.hdm-stuttgart.de\\rz-service\\Software\\SOPHOS\\StudentHome\\ gibt es Anleitungen. Der Zugriff darauf ist nur aus dem HdM-Netz m\u00f6glich."
-          ]
+          "speech": "Im Verzeichnis \\\\fs1.hdm-stuttgart.de\\rz-service\\Software\\SOPHOS\\StudentHome\\ gibt es Anleitungen. Der Zugriff darauf ist nur aus dem HdM-Netz m\u00f6glich."
         }
       ],
       "defaultResponsePlatforms": {},

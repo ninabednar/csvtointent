@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Deinen zust\u00e4ndigen IT-Verantwortlichen findest Du unter dem Link https://www.hdm-stuttgart.de/iz-it/it-verantwortliche"
-          ]
+          "speech": "Deinen zust\u00e4ndigen IT-Verantwortlichen findest Du unter dem Link https://www.hdm-stuttgart.de/iz-it/it-verantwortliche"
         }
       ],
       "defaultResponsePlatforms": {},

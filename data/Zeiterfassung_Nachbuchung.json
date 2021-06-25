@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "\u00dcber die Web-Schnittstelle (https://vw-online.hdm-stuttgart.de/webaz/) k\u00f6nnen Nachbuchungen und Korrekturen vorgenommen werden. N\u00e4here Infos findest Du unter: https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf und https://www.hdm-stuttgart.de/intranet/organisationshandbuch/eintrag?od_ID=2 im Abschnitt \"Arbeitszeit/Teilzeit und elektronische Zeiterfassung\"."
-          ]
+          "speech": "\u00dcber die Web-Schnittstelle (https://vw-online.hdm-stuttgart.de/webaz/) k\u00f6nnen Nachbuchungen und Korrekturen vorgenommen werden. N\u00e4here Infos findest Du unter: https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf und https://www.hdm-stuttgart.de/intranet/organisationshandbuch/eintrag?od_ID=2 im Abschnitt \"Arbeitszeit/Teilzeit und elektronische Zeiterfassung\"."
         }
       ],
       "defaultResponsePlatforms": {},

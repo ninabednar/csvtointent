@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Zur Sicherung und \u00dcbertragung von Daten des Internet Explorers gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf (Seite 14 im Abschnitt \"Daten anderer Browser sichern, Internet Explorer\")"
-          ]
+          "speech": "Zur Sicherung und \u00dcbertragung von Daten des Internet Explorers gibt es in dieser Anleitung eine Beschreibung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf (Seite 14 im Abschnitt \"Daten anderer Browser sichern, Internet Explorer\")"
         }
       ],
       "defaultResponsePlatforms": {},

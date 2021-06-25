@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um die Startseite f\u00fcr Firefox zu \u00e4ndern m\u00fcssen \u00fcber den Men\u00fcpunkt \"Extras\" die \"Einstellungen\" aufgerufen werden. Es \u00f6ffnet sich ein neues Fenster das in der linken Spalte den Men\u00fcpunkt \"Startseite\" enth\u00e4lt. Nach dem Anklicken dieses Men\u00fcpunktes siehst Du ein Fenster mit der bisherigen Startadresse. Hier kann eine beliebige Adresse eingetragen werden, die in Zukunft als Startseite verwendet werden soll. Weitere Details gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Startseiteaendern.pdf"
-          ]
+          "speech": "Um die Startseite f\u00fcr Firefox zu \u00e4ndern m\u00fcssen \u00fcber den Men\u00fcpunkt \"Extras\" die \"Einstellungen\" aufgerufen werden. Es \u00f6ffnet sich ein neues Fenster das in der linken Spalte den Men\u00fcpunkt \"Startseite\" enth\u00e4lt. Nach dem Anklicken dieses Men\u00fcpunktes siehst Du ein Fenster mit der bisherigen Startadresse. Hier kann eine beliebige Adresse eingetragen werden, die in Zukunft als Startseite verwendet werden soll. Weitere Details gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Startseiteaendern.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

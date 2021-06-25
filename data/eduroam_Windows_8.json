@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr die Einrichtung von eduroam unter Windows 8 gibt es hier eine detaillierte Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/eduroam-Windows8.pdf "
-          ]
+          "speech": "F\u00fcr die Einrichtung von eduroam unter Windows 8 gibt es hier eine detaillierte Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/eduroam-Windows8.pdf "
         }
       ],
       "defaultResponsePlatforms": {},

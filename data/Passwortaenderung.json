@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das Passwort kann unter https://vw-online.hdm-stuttgart.de/hdmaccount/passwort/ ge\u00e4ndert werden."
-          ]
+          "speech": "Das Passwort kann unter https://vw-online.hdm-stuttgart.de/hdmaccount/passwort/ ge\u00e4ndert werden."
         }
       ],
       "defaultResponsePlatforms": {},

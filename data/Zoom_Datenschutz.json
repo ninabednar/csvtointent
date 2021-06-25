@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Datenschutzerkl\u00e4rung von Zoom findest Du hier: https://www.hdm-stuttgart.de/studierende/abteilungen/it/datenschutz_zoom"
-          ]
+          "speech": "Die Datenschutzerkl\u00e4rung von Zoom findest Du hier: https://www.hdm-stuttgart.de/studierende/abteilungen/it/datenschutz_zoom"
         }
       ],
       "defaultResponsePlatforms": {},

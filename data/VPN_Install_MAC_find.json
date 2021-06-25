@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das Installationspaket zu Tunnelblick findest Du auf der offiziellen Projektseite: https://tunnelblick.net/."
-          ]
+          "speech": "Das Installationspaket zu Tunnelblick findest Du auf der offiziellen Projektseite: https://tunnelblick.net/."
         }
       ],
       "defaultResponsePlatforms": {},

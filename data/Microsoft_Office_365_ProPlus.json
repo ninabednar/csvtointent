@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Dabei handelt es sich um ein Softwarepaket, das alle Office-Programme beinhaltet und es f\u00fcr Studierende erm\u00f6glicht eine Windows 10 EDucation Lizenz (inklusive Medium) kostenlos zu erwerben. Mehr Infos gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice365.pdf"
-          ]
+          "speech": "Dabei handelt es sich um ein Softwarepaket, das alle Office-Programme beinhaltet und es f\u00fcr Studierende erm\u00f6glicht eine Windows 10 EDucation Lizenz (inklusive Medium) kostenlos zu erwerben. Mehr Infos gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice365.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

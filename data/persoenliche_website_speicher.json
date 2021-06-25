@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Jedem User wird ein Volumen von 500MB zur Verf\u00fcgung gestellt, welches die Homepage-Daten und die Datenbank umfasst. \\n Details zum Thema pers\u00f6nliche Websites sind hier aufgef\u00fchrt: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#persoenliche_webseiten"
-          ]
+          "speech": "Jedem User wird ein Volumen von 500MB zur Verf\u00fcgung gestellt, welches die Homepage-Daten und die Datenbank umfasst. \\n Details zum Thema pers\u00f6nliche Websites sind hier aufgef\u00fchrt: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#persoenliche_webseiten"
         }
       ],
       "defaultResponsePlatforms": {},

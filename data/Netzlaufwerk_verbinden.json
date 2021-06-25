@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Eine Verbindung zu den Laufwerken S:\\ und H:\\ sollte bereits vorhanden sein, falls eine der ben\u00f6tigten Verbindungen fehlt, findet sich hier eine ausf\u00fchrliche Anleitung https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Netzlaufwerkverbinden.pdf"
-          ]
+          "speech": "Eine Verbindung zu den Laufwerken S:\\ und H:\\ sollte bereits vorhanden sein, falls eine der ben\u00f6tigten Verbindungen fehlt, findet sich hier eine ausf\u00fchrliche Anleitung https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Netzlaufwerkverbinden.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

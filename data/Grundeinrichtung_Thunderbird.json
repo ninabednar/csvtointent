@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Einrichtung von Thunderbird mit Informationen zur Einrichtung des HdM-Adressbuches und des Kalenders wird in dieser Anleitung beschrieben: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Grundeinrichtung.pdf"
-          ]
+          "speech": "Die Einrichtung von Thunderbird mit Informationen zur Einrichtung des HdM-Adressbuches und des Kalenders wird in dieser Anleitung beschrieben: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Thunderbird_Grundeinrichtung.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

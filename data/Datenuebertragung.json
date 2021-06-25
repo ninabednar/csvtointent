@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Zur \u00dcbertragung der Daten, die gesichert werden sollen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf (Seite 17, Abschnitt \"R\u00fcckspielen der gesicherten Daten auf den neuen Computer\")"
-          ]
+          "speech": "Zur \u00dcbertragung der Daten, die gesichert werden sollen gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computerwechsel_Datensicherung.pdf (Seite 17, Abschnitt \"R\u00fcckspielen der gesicherten Daten auf den neuen Computer\")"
         }
       ],
       "defaultResponsePlatforms": {},

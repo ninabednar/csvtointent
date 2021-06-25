@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Informationen zum Zugang, der Installation und den Systemvorraussetzungen f\u00fcr bwLehrpool findest Du unter https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool"
-          ]
+          "speech": "Informationen zum Zugang, der Installation und den Systemvorraussetzungen f\u00fcr bwLehrpool findest Du unter https://www.hdm-stuttgart.de/intranet/services/iz-it/bwLehrpool"
         }
       ],
       "defaultResponsePlatforms": {},

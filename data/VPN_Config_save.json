@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das Speichern ist nur mithilfe von administrativen Rechten m\u00f6glich."
-          ]
+          "speech": "Das Speichern ist nur mithilfe von administrativen Rechten m\u00f6glich."
         }
       ],
       "defaultResponsePlatforms": {},

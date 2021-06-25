@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Eine Anleitung zur Installation von VPN f\u00fcr Windows gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf, f\u00fcr MacOS gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf "
-          ]
+          "speech": "Eine Anleitung zur Installation von VPN f\u00fcr Windows gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf, f\u00fcr MacOS gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf "
         }
       ],
       "defaultResponsePlatforms": {},

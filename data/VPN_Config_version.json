@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um sich mit der HdM-VPN verbinden zu k\u00f6nnen, wird mindestens Version 2.4.x von OpenVPN ben\u00f6tigt."
-          ]
+          "speech": "Um sich mit der HdM-VPN verbinden zu k\u00f6nnen, wird mindestens Version 2.4.x von OpenVPN ben\u00f6tigt."
         }
       ],
       "defaultResponsePlatforms": {},

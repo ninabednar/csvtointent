@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Studierende erhalten ihre HdMCard in der Nobelstra\u00dfe im Studienb\u00fcro."
-          ]
+          "speech": "Studierende erhalten ihre HdMCard in der Nobelstra\u00dfe im Studienb\u00fcro."
         }
       ],
       "defaultResponsePlatforms": {},

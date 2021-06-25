@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um Dich anzumelden, musst Du zun\u00e4chst Tunnelblick \u00f6ffnen und die Konfigurationspakete installieren. Danach kannst Du Dich dort mit Deinem HdM-Nutzernamen und Passwort anmelden."
-          ]
+          "speech": "Um Dich anzumelden, musst Du zun\u00e4chst Tunnelblick \u00f6ffnen und die Konfigurationspakete installieren. Danach kannst Du Dich dort mit Deinem HdM-Nutzernamen und Passwort anmelden."
         }
       ],
       "defaultResponsePlatforms": {},

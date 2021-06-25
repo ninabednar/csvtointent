@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Unter diesem Link findest Du Informationen zum Thema: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf"
-          ]
+          "speech": "Unter diesem Link findest Du Informationen zum Thema: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

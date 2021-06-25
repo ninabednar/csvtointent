@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Zum Beenden der Verbindung musst Du Dich einfach nur bei Deinem dienstlichen Desktop abmelden. Fahre den dienstlichen Rechner niemals herunter!"
-          ]
+          "speech": "Zum Beenden der Verbindung musst Du Dich einfach nur bei Deinem dienstlichen Desktop abmelden. Fahre den dienstlichen Rechner niemals herunter!"
         }
       ],
       "defaultResponsePlatforms": {},

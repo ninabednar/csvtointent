@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die HdMCard dient gleichzeitig als Studierendenausweis, Kopierkarte, Zutrittskarte und Bibliotheksausweis. /n Als Semesterticket im VVS-Bereich gilt die HdM Card nur Mo-Fr ab 18 Uhr, Sa, So und Feiertags gilt sie ganzt\u00e4gig. G\u00fcltig als Ticket ist sie nur mit dem VVS-Logo (also nach dem Validieren)."
-          ]
+          "speech": "Die HdMCard dient gleichzeitig als Studierendenausweis, Kopierkarte, Zutrittskarte und Bibliotheksausweis. /n Als Semesterticket im VVS-Bereich gilt die HdM Card nur Mo-Fr ab 18 Uhr, Sa, So und Feiertags gilt sie ganzt\u00e4gig. G\u00fcltig als Ticket ist sie nur mit dem VVS-Logo (also nach dem Validieren)."
         }
       ],
       "defaultResponsePlatforms": {},

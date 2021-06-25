@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Informationen dar\u00fcber findest Du hier: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/alfaviewinstall.pdf"
-          ]
+          "speech": "Informationen dar\u00fcber findest Du hier: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/alfaviewinstall.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

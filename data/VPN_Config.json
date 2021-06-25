@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Schau doch f\u00fcr Windows mal hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf oder hier f\u00fcr MacOS: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf "
-          ]
+          "speech": "Schau doch f\u00fcr Windows mal hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdMVPN_installieren-einrichten.pdf oder hier f\u00fcr MacOS: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf "
         }
       ],
       "defaultResponsePlatforms": {},

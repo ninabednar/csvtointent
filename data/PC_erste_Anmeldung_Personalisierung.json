@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr eine \u00dcbersicht der erforderlichen Schritte gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf"
-          ]
+          "speech": "F\u00fcr eine \u00dcbersicht der erforderlichen Schritte gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Der HdM Filestore ist eine zentrale Datenablage, die Du zum Austausch von Dateien kostenfrei verwenden kannst. Auf Basis der Software ownCloud k\u00f6nnen Benutzer via Browser, WebDAV- oder Sync-Client jederzeit und \u00fcberall auf ihre Daten zugreifen. Daneben dient die Software als Portal zu weiteren (S)FTP- und Fileservern im Haus. Mehr Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#datenablage "
-          ]
+          "speech": "Der HdM Filestore ist eine zentrale Datenablage, die Du zum Austausch von Dateien kostenfrei verwenden kannst. Auf Basis der Software ownCloud k\u00f6nnen Benutzer via Browser, WebDAV- oder Sync-Client jederzeit und \u00fcberall auf ihre Daten zugreifen. Daneben dient die Software als Portal zu weiteren (S)FTP- und Fileservern im Haus. Mehr Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#datenablage "
         }
       ],
       "defaultResponsePlatforms": {},

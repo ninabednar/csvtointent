@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um Firefox als Standardbrowser festzulegen m\u00fcssen in der Men\u00fcleiste \u00fcber den Punkt \"Extras\" die \"Einstellungen\" ge\u00f6ffnet werden. Unter dem Abschnitt \"Allgemein\" kann rechts neben \"Firefox ist nicht Ihr Standardbrowser\" \"Als Standard festlegen...\" ausgew\u00e4hlt werden. Daraufhin \u00f6ffenen sich in den Einstellungen die \"Standard-Apps\". F\u00fcr den \"Webbrowser\" kann hier auch Firefox ausgew\u00e4hlt werden. Unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf gibt es eine deteillierte Anleitung dazu."
-          ]
+          "speech": "Um Firefox als Standardbrowser festzulegen m\u00fcssen in der Men\u00fcleiste \u00fcber den Punkt \"Extras\" die \"Einstellungen\" ge\u00f6ffnet werden. Unter dem Abschnitt \"Allgemein\" kann rechts neben \"Firefox ist nicht Ihr Standardbrowser\" \"Als Standard festlegen...\" ausgew\u00e4hlt werden. Daraufhin \u00f6ffenen sich in den Einstellungen die \"Standard-Apps\". F\u00fcr den \"Webbrowser\" kann hier auch Firefox ausgew\u00e4hlt werden. Unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf gibt es eine deteillierte Anleitung dazu."
         }
       ],
       "defaultResponsePlatforms": {},

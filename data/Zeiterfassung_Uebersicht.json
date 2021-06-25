@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Vergangene Buchungen kannst Du \u00fcber die Web-Schnittstelle ansehen unter: https://vw-online.hdm-stuttgart.de/webaz/."
-          ]
+          "speech": "Vergangene Buchungen kannst Du \u00fcber die Web-Schnittstelle ansehen unter: https://vw-online.hdm-stuttgart.de/webaz/."
         }
       ],
       "defaultResponsePlatforms": {},

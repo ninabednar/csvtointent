@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Lizenzen f\u00fcr Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten"
-          ]
+          "speech": "Die Lizenzen f\u00fcr Adobe CC sind am 06.07.2020 ausgelaufen. Daher wird die Software an der HdM nicht mehr angeboten"
         }
       ],
       "defaultResponsePlatforms": {},

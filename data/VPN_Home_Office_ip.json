@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Adresse wird das Schema\u201e141.62.42.[999]\u201c haben, wobei [999] f\u00fcr den Rest der IP-Adresse Deines Computers steht."
-          ]
+          "speech": "Die Adresse wird das Schema\u201e141.62.42.[999]\u201c haben, wobei [999] f\u00fcr den Rest der IP-Adresse Deines Computers steht."
         }
       ],
       "defaultResponsePlatforms": {},

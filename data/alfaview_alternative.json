@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Alternativen an der HdM sind beispielsweise Zoom und Big Blue Button."
-          ]
+          "speech": "Alternativen an der HdM sind beispielsweise Zoom und Big Blue Button."
         }
       ],
       "defaultResponsePlatforms": {},

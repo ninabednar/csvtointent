@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr die Anmeldung am Computer gilt der Benutzername und das Passwort, das f\u00fcr die Dom\u00e4ne \"HdM\" angelegt wurde. Weitere Informationen sind unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf verf\u00fcgbar."
-          ]
+          "speech": "F\u00fcr die Anmeldung am Computer gilt der Benutzername und das Passwort, das f\u00fcr die Dom\u00e4ne \"HdM\" angelegt wurde. Weitere Informationen sind unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf verf\u00fcgbar."
         }
       ],
       "defaultResponsePlatforms": {},

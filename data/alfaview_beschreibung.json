@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "\u201ealfaview\u201c ist ein Videokonferenzprogramm. "
-          ]
+          "speech": "\u201ealfaview\u201c ist ein Videokonferenzprogramm. "
         }
       ],
       "defaultResponsePlatforms": {},

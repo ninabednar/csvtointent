@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Nach jeder Buchung wird der Zeitstempel und der Typ der Buchung angezeigt. \\n Auf eine \"Kommen\"-Buchung kann dabei nur eine \"Gehen\"-Buchung folgen und umgekehrt. \\n F\u00fcr Details zur Zeiterfassung findest Du hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf"
-          ]
+          "speech": "Nach jeder Buchung wird der Zeitstempel und der Typ der Buchung angezeigt. \\n Auf eine \"Kommen\"-Buchung kann dabei nur eine \"Gehen\"-Buchung folgen und umgekehrt. \\n F\u00fcr Details zur Zeiterfassung findest Du hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/iformulare/formular_20071219172345/Elektronische_Arbeitszeiterfassung_10.05.2017.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

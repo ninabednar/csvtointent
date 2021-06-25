@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Im Windows Explorer unter dem Men\u00fcpunkt \"Ansicht\" rechts oben unter \"Optionen\" \"Ordner- und Suchoptionen \u00e4ndern\" ausw\u00e4hlen. Dann \u00f6ffnet sich ein Fenster, dort den Men\u00fcpunkt \"Ansicht\" ausw\u00e4hlen. In der Liste musst Du das H\u00e4kchen bei \u201eErweiterungen bei bekannten Dateitypen ausblenden\u201c wegklicken und die Wahl mit \u201eOK\u201c best\u00e4tigen. Jetzt werden die Erweiterungen nicht mehr ausgebelndet, sondern sind sichtbar. \\n Eine detaillierte Anleitung gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice_Suffixanzeigen.pdf"
-          ]
+          "speech": "Im Windows Explorer unter dem Men\u00fcpunkt \"Ansicht\" rechts oben unter \"Optionen\" \"Ordner- und Suchoptionen \u00e4ndern\" ausw\u00e4hlen. Dann \u00f6ffnet sich ein Fenster, dort den Men\u00fcpunkt \"Ansicht\" ausw\u00e4hlen. In der Liste musst Du das H\u00e4kchen bei \u201eErweiterungen bei bekannten Dateitypen ausblenden\u201c wegklicken und die Wahl mit \u201eOK\u201c best\u00e4tigen. Jetzt werden die Erweiterungen nicht mehr ausgebelndet, sondern sind sichtbar. \\n Eine detaillierte Anleitung gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice_Suffixanzeigen.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

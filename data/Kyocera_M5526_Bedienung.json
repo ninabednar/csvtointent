@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Hier findest Du eine Anleitung f\u00fcr die Einrichtung des Kyocera ECOSYS M5526cdn: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/KyoceraM5526.pdf "
-          ]
+          "speech": "Hier findest Du eine Anleitung f\u00fcr die Einrichtung des Kyocera ECOSYS M5526cdn: https://www.hdm-stuttgart.de/intranet/services/iz-it/diy/pdf/KyoceraM5526.pdf "
         }
       ],
       "defaultResponsePlatforms": {},

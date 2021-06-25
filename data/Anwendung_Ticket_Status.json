@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Leider kann der aktuelle Status eines Tickets nicht abgerufen werden."
-          ]
+          "speech": "Leider kann der aktuelle Status eines Tickets nicht abgerufen werden."
         }
       ],
       "defaultResponsePlatforms": {},

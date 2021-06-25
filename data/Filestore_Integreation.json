@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_Netzlaufwerkeinbinden.pdf findest Du eine Anleitung zum Einbinden von Filestore als externes Netzlaufwerk. "
-          ]
+          "speech": "Unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_Netzlaufwerkeinbinden.pdf findest Du eine Anleitung zum Einbinden von Filestore als externes Netzlaufwerk. "
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr die Installation der Software sind administrative Rechte erforderlich."
-          ]
+          "speech": "F\u00fcr die Installation der Software sind administrative Rechte erforderlich."
         }
       ],
       "defaultResponsePlatforms": {},

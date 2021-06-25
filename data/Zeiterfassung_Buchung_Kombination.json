@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das Online Zeiterfassungsterminal erm\u00f6glicht es, bei der mobilen Arbeit jeweils sofort Buchungen durchzuf\u00fchren. F\u00fcr der Arbeitszeiten an der HdM verwendest Du bitte weiterhin die Zeiterfassungsterminals an der HdM. Die Nutzung der Zeiterfassungssysteme im Wechsel ist m\u00f6glich, z.B. wenn Du an einem Tag in mobiler Arbeit und am n\u00e4chsten Tag an der HdM bist. Die Buchungen werden regelm\u00e4\u00dfig miteinander synchronisiert."
-          ]
+          "speech": "Das Online Zeiterfassungsterminal erm\u00f6glicht es, bei der mobilen Arbeit jeweils sofort Buchungen durchzuf\u00fchren. F\u00fcr der Arbeitszeiten an der HdM verwendest Du bitte weiterhin die Zeiterfassungsterminals an der HdM. Die Nutzung der Zeiterfassungssysteme im Wechsel ist m\u00f6glich, z.B. wenn Du an einem Tag in mobiler Arbeit und am n\u00e4chsten Tag an der HdM bist. Die Buchungen werden regelm\u00e4\u00dfig miteinander synchronisiert."
         }
       ],
       "defaultResponsePlatforms": {},

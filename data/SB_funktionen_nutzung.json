@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um die SB-Funktionen nutzen zu k\u00f6nnen ben\u00f6tigst Du lediglich deinen HdM-Account (K\u00fcrzel und Passwort) zur Authentifizierung sowie einen Rechner mit Internetanschluss."
-          ]
+          "speech": "Um die SB-Funktionen nutzen zu k\u00f6nnen ben\u00f6tigst Du lediglich deinen HdM-Account (K\u00fcrzel und Passwort) zur Authentifizierung sowie einen Rechner mit Internetanschluss."
         }
       ],
       "defaultResponsePlatforms": {},

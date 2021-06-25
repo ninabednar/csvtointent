@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Im blauen Balken (rechts oben) kann die aktuelle Rolle (zb. Zeiterfasser/in) angeklickt werden. Daraufhin kann die gew\u00fcnschte Rolle ausgew\u00e4hlt und damit ge\u00e4ndert werden. \\n Weitere Infos findest Du in dieser Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf"
-          ]
+          "speech": "Im blauen Balken (rechts oben) kann die aktuelle Rolle (zb. Zeiterfasser/in) angeklickt werden. Daraufhin kann die gew\u00fcnschte Rolle ausgew\u00e4hlt und damit ge\u00e4ndert werden. \\n Weitere Infos findest Du in dieser Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Kurz-Anleitung-Online-Zeiterfassungsterminal.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

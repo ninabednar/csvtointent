@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Bei der Nutzung musst Du mehrere Punkte beachten. Diese findest Du am Ende der Anleitung unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf"
-          ]
+          "speech": "Bei der Nutzung musst Du mehrere Punkte beachten. Diese findest Du am Ende der Anleitung unter https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/vpn_macosx_420.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

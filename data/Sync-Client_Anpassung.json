@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Hier findest Du eine Anleitung f\u00fcr eine nachtr\u00e4gliche Anpasung der Sync Client Konfiguration: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_SyncClient.pdf"
-          ]
+          "speech": "Hier findest Du eine Anleitung f\u00fcr eine nachtr\u00e4gliche Anpasung der Sync Client Konfiguration: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_SyncClient.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

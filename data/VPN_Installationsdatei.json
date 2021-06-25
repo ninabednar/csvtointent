@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr Windows 10 kannst Du die Installationsdatei unter dem folgenden Link herunterladen: https://www.hdm-stuttgart.de/intranet/services/iz-it/openvpn/dl/openvpn-hdm-vpn-UDP4-1194-install-2.4.7-I603.exe"
-          ]
+          "speech": "F\u00fcr Windows 10 kannst Du die Installationsdatei unter dem folgenden Link herunterladen: https://www.hdm-stuttgart.de/intranet/services/iz-it/openvpn/dl/openvpn-hdm-vpn-UDP4-1194-install-2.4.7-I603.exe"
         }
       ],
       "defaultResponsePlatforms": {},

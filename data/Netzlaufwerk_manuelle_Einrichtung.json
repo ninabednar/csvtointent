@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Eine ausf\u00fchrliche Anleitung zu Netzlaufwerkverbindungen findet sich hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Netzlaufwerkverbinden.pdf"
-          ]
+          "speech": "Eine ausf\u00fchrliche Anleitung zu Netzlaufwerkverbindungen findet sich hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Netzlaufwerkverbinden.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Speicher Dein Passwort bitte nicht ab, da es sonst zu Verbindungsproblemen kommt und das ein hohes Sicherheitsrisiko darstellt. "
-          ]
+          "speech": "Speicher Dein Passwort bitte nicht ab, da es sonst zu Verbindungsproblemen kommt und das ein hohes Sicherheitsrisiko darstellt. "
         }
       ],
       "defaultResponsePlatforms": {},

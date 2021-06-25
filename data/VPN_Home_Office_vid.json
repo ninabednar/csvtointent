@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr Videokonferenzen musst Du unbedingt die Remotedesktopverbindung und OpenVPN beenden."
-          ]
+          "speech": "F\u00fcr Videokonferenzen musst Du unbedingt die Remotedesktopverbindung und OpenVPN beenden."
         }
       ],
       "defaultResponsePlatforms": {},

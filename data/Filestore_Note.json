@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Werden Daten von synchronisierten lokalen Order gel\u00f6scht, so werden diese auch auf dem HdMFileStore gel\u00f6scht! Du findest diese auf dem HdMFileStore-Server noch f\u00fcr eine \u00dcbergangszeit im Papierkorb. \nWerden Dateien vom synchronisierten lokalen Ordern ge\u00e4ndert, werden diese auf dem HdMFileStore-Server f\u00fcr eine \u00dcbergangszeit versioniert.\nSowohl Papierkorb als auch Versionen dienen nur der kurzfristigen Korrektur von L\u00f6sch- oder Bearbeitungsfehlern."
-          ]
+          "speech": "Werden Daten von synchronisierten lokalen Order gel\u00f6scht, so werden diese auch auf dem HdMFileStore gel\u00f6scht! Du findest diese auf dem HdMFileStore-Server noch f\u00fcr eine \u00dcbergangszeit im Papierkorb. \nWerden Dateien vom synchronisierten lokalen Ordern ge\u00e4ndert, werden diese auf dem HdMFileStore-Server f\u00fcr eine \u00dcbergangszeit versioniert.\nSowohl Papierkorb als auch Versionen dienen nur der kurzfristigen Korrektur von L\u00f6sch- oder Bearbeitungsfehlern."
         }
       ],
       "defaultResponsePlatforms": {},

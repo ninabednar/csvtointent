@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Mit Fragen, Problemen, sonstigen R\u00fcckmeldungen oder Anregungen wendest Du dich bitte per E-Mail an: sb@hdm-stuttgart.de oder bei inhaltlichen Fragen an die Personalabteilung: personal@hdm-stuttgart.de und bei technischen Fragen an Hajo Czech: czech@hdm-stuttgart.de"
-          ]
+          "speech": "Mit Fragen, Problemen, sonstigen R\u00fcckmeldungen oder Anregungen wendest Du dich bitte per E-Mail an: sb@hdm-stuttgart.de oder bei inhaltlichen Fragen an die Personalabteilung: personal@hdm-stuttgart.de und bei technischen Fragen an Hajo Czech: czech@hdm-stuttgart.de"
         }
       ],
       "defaultResponsePlatforms": {},

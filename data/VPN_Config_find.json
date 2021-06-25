@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das VPN-Konfigurationspaket findest Du bei den IT-Anleitungen (https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender). Klicke dort auf die Anleitung f\u00fcr dein Betriebssystem; dort ist das Paket verlinkt."
-          ]
+          "speech": "Das VPN-Konfigurationspaket findest Du bei den IT-Anleitungen (https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender). Klicke dort auf die Anleitung f\u00fcr dein Betriebssystem; dort ist das Paket verlinkt."
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um Firefox so einzustellen, dass mehrere Tabs automatisch ge\u00f6ffnet werden sind mehrere Schritte notwendig. Eine detaillierte Anleitung gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_MehrereStartseitentabs.pdf"
-          ]
+          "speech": "Um Firefox so einzustellen, dass mehrere Tabs automatisch ge\u00f6ffnet werden sind mehrere Schritte notwendig. Eine detaillierte Anleitung gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_MehrereStartseitentabs.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

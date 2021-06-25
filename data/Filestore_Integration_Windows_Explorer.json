@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um den Zugriff auf filestore.hdm-stuttgart.de f\u00fcr viele Anwendungen komfortabler zu gestalten, kannst Du\nden Filestore auch als Netzlaufwerk in den Windows Explorer einbinden. Eine Anleitung f\u00fcr die Einrichtung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_WindowsExplorereinbinden.pdf"
-          ]
+          "speech": "Um den Zugriff auf filestore.hdm-stuttgart.de f\u00fcr viele Anwendungen komfortabler zu gestalten, kannst Du\nden Filestore auch als Netzlaufwerk in den Windows Explorer einbinden. Eine Anleitung f\u00fcr die Einrichtung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Filestore_WindowsExplorereinbinden.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Benutzerordnung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#persoenliche_webseiten"
-          ]
+          "speech": "Die Benutzerordnung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/#persoenliche_webseiten"
         }
       ],
       "defaultResponsePlatforms": {},

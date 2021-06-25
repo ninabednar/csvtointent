@@ -13,9 +13,12 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Gerne versuche ich Dir weiterzuhelfen! Meine prim\u00e4re Aufgabe, ist es Dich schnell zum Ziel zu bringen, falls Du ein IT-Problem hast.\n\nIch kann Dir Ausk\u00fcnfte \u00fcber ganz allgemeine Themen geben, egal ob Du Mitarbeiter/in, Student/in oder eine Lehrkraft bist. Hier sind einige Beispielthemen zu denen Du mir Fragen stellen kannst: \\n\u2022 SB-Funktionen \\n\u2022 Einrichtung vom Arbeitsplatz \\n\u2022 Mails \\n\u2022 VPN\\n\u2022 Drucker\\n\u2022 Microsoft Office 365 ProPlus \\n\u2022 eduroam\\n\u2022 bwCloud\\n\u2022 und viele weitere..."
-          ]
+          "speech": "Gerne versuche ich Dir weiterzuhelfen! Meine prim\u00e4re Aufgabe, ist es Dich schnell zum Ziel zu bringen, falls Du ein IT-Problem hast."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich kann Dir Ausk\u00fcnfte \u00fcber ganz allgemeine Themen geben, egal ob Du Mitarbeiter/in, Student/in oder eine Lehrkraft bist. Hier sind einige Beispielthemen zu denen Du mir Fragen stellen kannst: \\n\u2022 SB-Funktionen \\n\u2022 Einrichtung vom Arbeitsplatz \\n\u2022 Mails \\n\u2022 VPN\\n\u2022 Drucker\\n\u2022 Microsoft Office 365 ProPlus \\n\u2022 eduroam\\n\u2022 bwCloud\\n\u2022 und viele weitere..."
         }
       ],
       "defaultResponsePlatforms": {},

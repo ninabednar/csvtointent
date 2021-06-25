@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr Details zur Einrichtung eines Samsung Scanners gibts es hier eine Anleitung:  https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/SamsungScanner_Einrichtung.pdf"
-          ]
+          "speech": "F\u00fcr Details zur Einrichtung eines Samsung Scanners gibts es hier eine Anleitung:  https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/SamsungScanner_Einrichtung.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

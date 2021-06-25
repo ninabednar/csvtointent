@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "F\u00fcr die Details zur Einrichtung des VLC Players gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf"
-          ]
+          "speech": "F\u00fcr die Details zur Einrichtung des VLC Players gibt es hier Informationen: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Computer_Erstanmeldung.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Unter diesem Link kannst Du das Zeiterfassungsterminal aufrufen:  https://vw-online.hdm-stuttgart.de/qiszeb/"
-          ]
+          "speech": "Unter diesem Link kannst Du das Zeiterfassungsterminal aufrufen:  https://vw-online.hdm-stuttgart.de/qiszeb/"
         }
       ],
       "defaultResponsePlatforms": {},

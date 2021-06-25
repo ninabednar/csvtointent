@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "DefaultFallbackIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich verstehe Deine Frage leider nicht. Bitte formuliere die Frage etwas um."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Entschuldige bitte, ich habe Deine Frage nicht verstanden. Bitte formuliere die Frage etwas genauer oder stelle eine neue Frage."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe, kannst Du Dein Anliegen vielleicht anders ausdr\u00fccken?"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Leider kann ich nicht verstehen, was du von mir m\u00f6chtest. Bitte formuliere die Frage etwas um oder stelle eine neue Frage."
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Kannst Du das noch mal anders formulieren? Ich habe das leider nicht verstanden."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

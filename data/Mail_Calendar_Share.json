@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Wenn Du deinen Kalender mit anderen teilen willst oder f\u00fcr einen Abteilungskalender zust\u00e4ndig bist, musst Du den entsprechenden Kalender auch f\u00fcr andere Kolleg*innen zugriffsf\u00e4hig machen. Eine Anleitung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdM-OX_Kalenderfreigabe.pdf"
-          ]
+          "speech": "Wenn Du deinen Kalender mit anderen teilen willst oder f\u00fcr einen Abteilungskalender zust\u00e4ndig bist, musst Du den entsprechenden Kalender auch f\u00fcr andere Kolleg*innen zugriffsf\u00e4hig machen. Eine Anleitung findest Du hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/HdM-OX_Kalenderfreigabe.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Das Angebot kann \u00fcber diesen Link aufgerufen werden: https://bilDung365.de. Hier muss als BilDungseinrichtung die Hochschule der Medien ausgew\u00e4hlt werden. \\n Weitere Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice365.pdf"
-          ]
+          "speech": "Das Angebot kann \u00fcber diesen Link aufgerufen werden: https://bilDung365.de. Hier muss als BilDungseinrichtung die Hochschule der Medien ausgew\u00e4hlt werden. \\n Weitere Informationen gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/MicrosoftOffice365.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

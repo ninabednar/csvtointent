@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um bei Firefox die Men\u00fcleiste einzublenden muss der Balken oben im Browserfenster mit der rechten Maustaste angeklickt werden. Daraufhin erscheint ein Auswahlfenster mit der Option \"Men\u00fcleiste\". Diese muss ausgew\u00e4hlt werden, dann wird die Men\u00fcleiste angezeigt. Diese Anleitung enth\u00e4lt weitere Informationen: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf"
-          ]
+          "speech": "Um bei Firefox die Men\u00fcleiste einzublenden muss der Balken oben im Browserfenster mit der rechten Maustaste angeklickt werden. Daraufhin erscheint ein Auswahlfenster mit der Option \"Men\u00fcleiste\". Diese muss ausgew\u00e4hlt werden, dann wird die Men\u00fcleiste angezeigt. Diese Anleitung enth\u00e4lt weitere Informationen: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf"
         }
       ],
       "defaultResponsePlatforms": {},

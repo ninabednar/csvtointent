@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Du findest unter https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen alle Ansprechpartner zur IT der Hochschule."
-          ]
+          "speech": "Du findest unter https://www.hdm-stuttgart.de/intranet/services/it/ansprechpartner_bei_it_problemen alle Ansprechpartner zur IT der Hochschule."
         }
       ],
       "defaultResponsePlatforms": {},

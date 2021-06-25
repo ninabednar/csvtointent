@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Der Nutzungszeitraum f\u00fcr das Angebot betr\u00e4gt 1 Jahr, kann danach aber \u00fcber https://bilDung365.de erneut erworben und damit verl\u00e4ngert werden."
-          ]
+          "speech": "Der Nutzungszeitraum f\u00fcr das Angebot betr\u00e4gt 1 Jahr, kann danach aber \u00fcber https://bilDung365.de erneut erworben und damit verl\u00e4ngert werden."
         }
       ],
       "defaultResponsePlatforms": {},

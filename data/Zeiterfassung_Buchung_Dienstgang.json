@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Die Buchung eines Dienstganges ist zurzeit nicht m\u00f6glich."
-          ]
+          "speech": "Die Buchung eines Dienstganges ist zurzeit nicht m\u00f6glich."
         }
       ],
       "defaultResponsePlatforms": {},

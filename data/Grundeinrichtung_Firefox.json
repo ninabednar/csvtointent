@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Zur Einrichtung von Firefox geh\u00f6ren mehrere Schritte f\u00fcr Details gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf) \\n Beschrieben wird das Einblenden der Men\u00fcleiste und wie die Startseite individuell eingestellt werden kann."
-          ]
+          "speech": "Zur Einrichtung von Firefox geh\u00f6ren mehrere Schritte f\u00fcr Details gibt es hier eine Anleitung: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/Firefox_Grundeinrichtung.pdf) \\n Beschrieben wird das Einblenden der Men\u00fcleiste und wie die Startseite individuell eingestellt werden kann."
         }
       ],
       "defaultResponsePlatforms": {},

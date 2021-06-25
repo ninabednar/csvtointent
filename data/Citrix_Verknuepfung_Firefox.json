@@ -13,9 +13,7 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Um eine Citrix-Verkn\u00fcpfung auf dem Desktop anzulegen musst Du mit der rechten Maustaste ins Leere auf den Bildschirm klicken. W\u00e4hle \"Neu\" > \"Verkn\u00fcpfung\" aus. Daraufhin \u00f6ffnet sich ein Fenster mit dem Feld \"Geben Sie den Speicherort des Elements ein:\". Dort muss die Adresse http://10.10.36.140/Citrix/XenApp eingetragen werden, mit \"Weiter\" wird die Eingabe best\u00e4tigt und die Verkn\u00fcpfung kann benannt werden (zb. Citrix). Mit \"Fertig stellen\" wird auf dem Desktop eine Verkn\u00fcpfung angelegt. Die Anleitung f\u00fcr diesen Vorgang gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/IReMo_verbinden.pdf"
-          ]
+          "speech": "Um eine Citrix-Verkn\u00fcpfung auf dem Desktop anzulegen musst Du mit der rechten Maustaste ins Leere auf den Bildschirm klicken. W\u00e4hle \"Neu\" > \"Verkn\u00fcpfung\" aus. Daraufhin \u00f6ffnet sich ein Fenster mit dem Feld \"Geben Sie den Speicherort des Elements ein:\". Dort muss die Adresse http://10.10.36.140/Citrix/XenApp eingetragen werden, mit \"Weiter\" wird die Eingabe best\u00e4tigt und die Verkn\u00fcpfung kann benannt werden (zb. Citrix). Mit \"Fertig stellen\" wird auf dem Desktop eine Verkn\u00fcpfung angelegt. Die Anleitung f\u00fcr diesen Vorgang gibt es hier: https://www.hdm-stuttgart.de/intranet/services/it/hilfestellung_fuer_endanwender/pdf/IReMo_verbinden.pdf"
         }
       ],
       "defaultResponsePlatforms": {},
